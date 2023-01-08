@@ -16,13 +16,13 @@ Instructions on how to create a Java Eclipse Project on a local machine and then
 - note the new window with the title `tcrook0/IntegratedProjects`, near top
 - the new GitHub repository, `IntegratedProjects` has been created
 
-# Clone the New Repository on the Local Machine
+# Clone the New Repository on Local Machine
 
 # Create a New Java Eclipse Project in the Repository
 
 # Verify the Project Runs
 
-# Create a .gitignore File
+# .gitignore
 
 # add
 
@@ -30,7 +30,7 @@ Instructions on how to create a Java Eclipse Project on a local machine and then
 
 # push
 
-# Verify the Source Code for the Porject is Now in GitHub
+# Verify the Source Code for the Project is Now in GitHub
 
 # Verify the Project Runs
 
