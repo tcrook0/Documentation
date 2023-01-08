@@ -1,0 +1,3 @@
+This repository contains articles on How to Do Stuff with Git, GitHub, MacOS Terminal commands, and Java Eclipse - all together...
+
+At the time of this repository's creation, January 2023, the type of machine and various pieces of the software used are given below.
