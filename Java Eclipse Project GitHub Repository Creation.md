@@ -4,6 +4,16 @@ Instructions on how to create a Java Eclipse Project on a local machine and then
 
 # Create a new GitHub Repository
 
+- goto the GitHub website: https://github.com
+- sign in to GitHub as tcrook0
+- click tcrook0 drop-down, in the upper right corner
+- click Your Repositories
+- click New button, below tcrook0 drop-down
+- enter the follwing in the Repository name field: IntegratedProjects
+- click Create repository button, near bottom
+- note the new window with the title tcrook0/IntegratedProjects, near top
+- the new GitHub repository, IntegratedProjects has been created
+
 # Clone the New Repository on the Local Machine
 
 # Create a New Java Eclipse Project in the Repository
