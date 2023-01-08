@@ -5,7 +5,7 @@ The instructions in the articles refer to specific files, folders, etc.; hopeful
 Keeping the documentation specific in this way also serves as a record of, at least, what did work - and in which environment.
 As time goes on, so does change; if these articles aren't updated periodically, they will fall into decay...
 
-Machine: MacBook Pro
+`Machine: MacBook Pro
          Chip:   Apple M1 Pro
          macOS:  Ventura 13.1
 
@@ -16,4 +16,4 @@ Git:    git version 2.37.1 (Apple Git-137.1)
 GitHub: https://github.com
 
 Eclipse IDE for Java Developers: Version:  2022-09 (4.23.0)
-                                 Build id: 20220908-1902
+                                 Build id: 20220908-1902`
