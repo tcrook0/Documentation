@@ -54,6 +54,7 @@ mkdir -p UCSCext/CMPR_X412/Week1
 ```
 
 bring up `Eclipse`
+
 `Browse...` to the following `Workspace` (full path):
 
 ```
@@ -63,19 +64,25 @@ bring up `Eclipse`
 From an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
 
 click `Launch` button
+
 click `Hide` button
+
 click `Create a Java Project` link, found in `Package Explorer`
+
 enter the follwing in the `Project name` field: `Homework1`
+
 near the bottom, turn off the following two checkboxes:
 1. `Create module-info.java file`
 2. `Generate comments`
+
 click `Finish` button
 
 This results in a new window with a blank editor field. Copy and paste the entire contents of the following file into this field (`Finder` works well for navigating to this file which may be opened by double-clicking on it):
 
 ```
 Macintosh HD > Users > tomcrook > Documents > _ACME
-             > EclipseJavaWOrkSpaces > USCSext
+             > EclipseJavaWOrkSpaces 
+             > USCSext
              > 2019_4thQtr_CMPR_X412.(21)_JavaProgrammingForBeginners
              > Week1
              > Homework1
