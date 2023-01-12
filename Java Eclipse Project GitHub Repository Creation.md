@@ -112,23 +112,23 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
   .DS_Store
   .git
   UCSCext
-    .DS_Store
-    CMPR_X412
-      .DS_STORE
-      Week1
-        .DS_Store
-        .gitignore
-        .metadata
-        .Homework1
-          .DS_Store
-          .classpath
-          .gitignore
-          .project
-          .settings
-          .bin
-            Homework1.class
-          .src
-            Homework1.javq
+         .DS_Store
+         CMPR_X412
+                  .DS_STORE
+                  Week1
+                       .DS_Store
+                       .gitignore
+                       .metadata
+                       Homework1
+                                .DS_Store
+                                .classpath
+                                .gitignore
+                                .project
+                                .settings
+                                .bin
+                                    Homework1.class
+                                .src
+                                    Homework1.javq
 ```
 
 # add
