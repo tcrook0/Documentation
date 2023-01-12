@@ -53,7 +53,7 @@ From the `Terminal` window:
 mkdir -p UCSCext/CMPR_X412/Week1
 ```
 
-bring up `Eclipse`
+bring up `Eclipse`:
 
 `Browse...` to the following `Workspace` (full path):
 
@@ -61,7 +61,7 @@ bring up `Eclipse`
 /Users/to crook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
 ```
 
-From an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
+Note: from an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
 
 click `Launch` button
 
