@@ -27,6 +27,24 @@ cd /Users/tomcrook/Documents/_ACME
 git clone https://github.dom/5d4ook0/IntegratedProjects.git
 ```
 
+Response to the above:
+
+```
+Cloning into 'IntegratedProjects'...
+warning: You appear to have cloned an empty repository
+```
+
+Issue commands:
+
+```
+ls -al
+ls -al .git
+git status
+git config --list
+```
+
+Response to the above indicates a new directory, the cloned repository `IntegratedProjects`, which is connected to the GItHub repository of the same name, has been created, consisting of one directory named `.git`.
+
 # Create a New Java Eclipse Project in the Repository
 
 # Verify the Project Runs
