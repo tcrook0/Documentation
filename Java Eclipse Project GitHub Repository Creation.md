@@ -20,6 +20,13 @@ Note that these instructions are repeatable, that is, they include instructions 
 
 # Clone the New Repository on Local Machine
 
+Bring up a `Terminal` window and issue the following commands:
+
+```
+cd /Users/tomcrook/Documents/_ACME
+git clone https://github.dom/5d4ook0/IntegratedProjects.git
+```
+
 # Create a New Java Eclipse Project in the Repository
 
 # Verify the Project Runs
