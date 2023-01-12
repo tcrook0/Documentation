@@ -1,6 +1,6 @@
 This repository contains articles on How to Do Stuff with Git, GitHub, MacOS Terminal commands, and Java Eclipse - all together...
 
-At the time of this repository's creation, January 2023, the type of machine and various pieces of the software used are given below.
+At the time of this repository's creation, January 2023, the type of machine and various pieces of the software used were given, below.
 The instructions in the articles refer to specific files, folders, etc.; hopefully, one can extrapolate and adapt them.
 Keeping the documentation specific in this way also serves as a record of, at least, what did work - and in which environment.
 As time goes on, so does change; if these articles aren't updated periodically, they will fall into decay...
