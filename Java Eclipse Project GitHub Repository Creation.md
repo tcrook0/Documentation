@@ -184,7 +184,7 @@ On branch main
 No commits yet
 
 Untracked files:
-  (use "git add <fiule>..." to include in what will be committed)
+  (use "git add <file>..." to include in what will be committed)
         UCSCext
 
 nothing added to commit but untracked files present (use "git add" to track)
@@ -192,9 +192,87 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 # add
 
+From `Terminal`:
+
+```
+git add UCSCext
+git status
+```
+
+Response:
+
+```
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file: UCSCext/CMPR_X412/Week1/Homework1/src/Homework1.java
+```
+
 # commit
 
+From `Terminal`:
+
+```
+git commit
+```
+
+This brings up the `vi` editor... Add the following to the `.../.git/COMMIT_EDITMSG` file:
+
+```
+Commit the following Java Eclipse Project: Homework1.
+```
+
+From `Terminal`:
+
+```
+git status
+```
+
+Response:
+
+```
+On branch main
+Your brtanch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+  
+nothing to commit, working tree clean
+```
+
 # push
+
+From `Terminal`:
+
+```
+git push
+```
+
+Response:
+
+```
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), 2.07 KiB | 2.07 MB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/trcook0/Integrate3dProjects.git
+* [new branch] main -> main
+```
+
+From `Terminal`:
+
+```
+git status
+```
+
+Response:
+
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+```
 
 # Verify the Source Code for the Project is Now in GitHub
 
