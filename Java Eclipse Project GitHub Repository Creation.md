@@ -235,7 +235,7 @@ Response:
 
 ```
 On branch main
-Your brtanch is based on 'origin/main', but the upstream is gone.
+Your branch is based on 'origin/main', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
   
 nothing to commit, working tree clean
@@ -255,7 +255,7 @@ Response:
 Enumerating objects: 8, done.
 Counting objects: 100% (8/8), 2.07 KiB | 2.07 MB/s, done.
 Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/trcook0/Integrate3dProjects.git
+To https://github.com/trcook0/IntegratedProjects.git
 * [new branch] main -> main
 ```
 
