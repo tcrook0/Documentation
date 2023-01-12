@@ -125,10 +125,69 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
                                 .gitignore
                                 .project
                                 .settings
-                                .bin
-                                    Homework1.class
-                                .src
-                                    Homework1.javq
+                                bin
+                                   Homework1.class
+                                src
+                                   Homework1.java
+```
+
+Note how this compares with what the directory/repository looked like before `Eclipse`:
+
+```
+.../IntegratedProjects
+  .git
+  UCSCext
+         CMPR_X412
+                  Week1
+```
+
+Creating the Java Eclipse Project `Homework1` generated a lot of new files! Only one of those new files is to be copied across the local/remote `GitHub` divide:
+
+```
+.../IntegratedProjects
+  .git
+  UCSCext
+         CMPR_X412
+                  Week1
+                       Homework1
+                                src
+                                   Homework1.java
+```
+
+It would be nice to have a relatively easy way to prevent most of the files from being copied over...
+
+One way to do this is to create a `.gitignore` file, directly under `.../IntegratedProjects` and therefore adjacent to both `.git` and `UCSCext`.
+
+In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways this this `.gitignore` file may be written. Here's one way that works - type this into the `.gitignore` file:
+
+```
+.DS_Store
+.classpath
+.gitignore
+.metadata
+.project
+.settings
+bin
+```
+
+From `Terminal`:
+
+```
+git status
+```
+
+Response:
+
+```
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <fiule>..." to include in what will be committed)
+        UCSCext
+
+nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 # add
