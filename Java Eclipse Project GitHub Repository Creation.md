@@ -311,4 +311,23 @@ A `Console` window should appear with output generated - just as before in step 
 
 # Delete the Repository on GitHub
 
+- click `tcrook0` drop-down, in the upper right corner
+- click `Your repositories`
+- find `IntegratedProjects` in the list of repositories displayed and click on it.
+
+A few lines down from the top, there is a horizontal display of icons:
+
+```
+* Code * Issues * Pull requests * Actions * Projects * Wiki * Security * Insights * Settings
+```
+
+- click on the right-most one: `Settings'
+- scroll down to the bottom of the page
+- click on the `Delete this repository` button
+- follow the instructions to confirm...
+
+Note that the page listing all of the repositories for tcrook0 comes back and that IntegratedProjects no longer exists.
+
+- sign out from `GitHub`
+
 # Delete the Cloned Local Repository
