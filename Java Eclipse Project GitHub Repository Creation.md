@@ -58,7 +58,7 @@ bring up `Eclipse`:
 `Browse...` to the following `Workspace` (full path):
 
 ```
-/Users/to crook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
+/Users/tcrook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
 ```
 
 Note: from an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
