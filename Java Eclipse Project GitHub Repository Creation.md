@@ -297,6 +297,18 @@ UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 
 # Verify the Project Runs
 
+- bring up `Eclipse`
+- ensure the following is the current workspace:
+
+```
+/Users/tomcrook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
+```
+
+- click `Run` drop-down, from the menu bar, top
+- click `Run` (the first item in the drop-down menu)
+
+A `Console` window should appear with output generated - just as before in step 4 (Verify New Java Eclipse Project Runs).
+
 # Delete the Repository on GitHub
 
 # Delete the Cloned Local Repository
