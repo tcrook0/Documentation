@@ -31,19 +31,20 @@ Response to the above:
 
 ```
 Cloning into 'IntegratedProjects'...
-warning: You appear to have cloned an empty repository
+warning: You appear to have cloned an empty repository.
 ```
 
 Issue commands:
 
 ```
+cd IntegratedProjects
 ls -al
 ls -al .git
 git status
 git config --list
 ```
 
-Response to the above indicates a new directory, the cloned repository `IntegratedProjects`, which is connected to the GItHub repository of the same name, has been created, consisting of one directory named `.git`.
+Response to the above indicates a new directory, the cloned repository `IntegratedProjects`, which is connected to the GitHub repository of the same name, has been created; it consists of one directory named `.git`.
 
 # Create a New Java Eclipse Project in the Repository
 
