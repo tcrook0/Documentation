@@ -24,7 +24,7 @@ Bring up a `Terminal` window and issue the following commands:
 
 ```
 cd /Users/tomcrook/Documents/_ACME
-git clone https://github.dom/5d4ook0/IntegratedProjects.git
+git clone https://github.com/tcrook0/IntegratedProjects.git
 ```
 
 Response to the above:
