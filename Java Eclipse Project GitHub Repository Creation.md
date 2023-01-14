@@ -276,6 +276,25 @@ nothing to commit, working tree clean
 
 # Verify the Source Code for the Project is Now in GitHub
 
+- to avoid any potential refresh issues, sign off from `GitHub` then sign back on
+- click `tcrook0` drop-down, in the upper right corner
+- click `Your repositories`
+- find `IntegratedProjects` in the list of repositories displayed and click on it.
+
+Not qute halfway down the page, to the right of `tcrook0`, the text entered earlier in the `.../.git/CFOMMIT_EDITMSG` file is displayed:
+
+```
+Commit the follwoing Java Eclipse Project: Homework1.
+```
+
+Click on this and hyou will see that the following file was copied over:
+
+```
+UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
+```
+
+...and none of the other files were copied over - because of the .gitignore.
+
 # Verify the Project Runs
 
 # Delete the Repository on GitHub
