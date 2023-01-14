@@ -8,7 +8,7 @@ Note that these instructions are repeatable, that is, they include instructions 
 
 # Create a new GitHub Repository
 
-- goto the GitHub website: https://github.com
+- go to the GitHub website: https://github.com
 - sign in to GitHub as `tcrook0`
 - click `tcrook0` drop-down, in upper right corner
 - click `Your repositories` link
@@ -48,7 +48,7 @@ Response to the above indicates a new directory, the cloned repository `Integrat
 
 # Create a New Java Eclipse Project in the Repository
 
-From the `Terminal` window:
+From `Terminal`:
 
 ```
 mkdir -p UCSCext/CMPR_X412/Week1
@@ -309,6 +309,8 @@ A `Console` window should appear with output generated - just as before in step 
 
 # Delete the Repository on GitHub
 
+From `GitHub`:
+
 - click `tcrook0` drop-down, in the upper right corner
 - click `Your repositories`
 - find `IntegratedProjects` in the list of repositories displayed and click on it.
@@ -330,7 +332,7 @@ Note that the page listing all of the repositories for tcrook0 comes back and th
 
 # Delete the Cloned Local Repository
 
-- from the `Terminal` window:
+From `Terminal`:
 
 ```
 cd /Users/tomcrook/Documents/_ACME
