@@ -53,7 +53,7 @@ From the `Terminal` window:
 mkdir -p UCSCext/CMPR_X412/Week1
 ```
 
-bring up `Eclipse`:
+Bring up `Eclipse`:
 
 `Browse...` to the following `Workspace` (full path):
 
@@ -72,7 +72,7 @@ near the bottom, turn off the following two checkboxes:
 1. `Create module-info.java file`
 2. `Generate comments`
 
-click `Finish` button
+- click `Finish` button
 
 This results in a new window with a blank editor field. Copy and paste the entire contents of the following file into this field (`Finder` works well for navigating to this file which may be opened by double-clicking on it):
 
