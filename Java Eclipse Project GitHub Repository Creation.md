@@ -331,3 +331,14 @@ Note that the page listing all of the repositories for tcrook0 comes back and th
 - sign out from `GitHub`
 
 # Delete the Cloned Local Repository
+
+- from the `Terminal` window:
+
+```
+cd /Users/tomcrook/Documents/_ACME
+ls -al
+```
+
+- Note that `IntegratedProjects` no longer exists
+
+These instructions are repeatable; that is, they will work exactly as before, starting from step 1 (Create a New GitHub Repository).
