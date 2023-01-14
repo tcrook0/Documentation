@@ -113,10 +113,8 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
                   .DS_STORE
                   Week1
                        .DS_Store
-                       .gitignore
                        .metadata
                        Homework1
-                                .DS_Store
                                 .classpath
                                 .gitignore
                                 .project
@@ -154,7 +152,7 @@ It would be nice to have a relatively easy way to prevent most of the files from
 
 One way to do this is to create a `.gitignore` file, directly under `.../IntegratedProjects` and therefore adjacent to both `.git` and `UCSCext`.
 
-In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways this this `.gitignore` file may be written. Here's one way that works - type this into the `.gitignore` file:
+In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways to write this `.gitignore` file. Here's one way that works - type the following into the `.gitignore` file:
 
 ```
 .DS_Store
