@@ -281,7 +281,7 @@ nothing to commit, working tree clean
 - click `Your repositories`
 - find `IntegratedProjects` in the list of repositories displayed and click on it.
 
-Not qute halfway down the page, to the right of `tcrook0`, the text entered earlier in the `.../.git/CFOMMIT_EDITMSG` file is displayed:
+Not qute halfway down the page, to the right of `tcrook0`, the text entered earlier in the `.../.git/COMMIT_EDITMSG` file is displayed:
 
 ```
 Commit the follwoing Java Eclipse Project: Homework1.
