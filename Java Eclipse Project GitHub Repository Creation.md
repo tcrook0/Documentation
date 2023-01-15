@@ -64,6 +64,7 @@ bring up `Eclipse`:
 
 Note: from an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
 
+- click `Open` button
 - click `Launch` button
 - click `Hide` button
 - click `Create a Java Project` link, found in `Package Explorer`
