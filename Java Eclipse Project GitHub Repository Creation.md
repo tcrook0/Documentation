@@ -66,7 +66,7 @@ Note: from an `Eclipse` perspective, ...`/Week1` is the `Workspace`.
 - click `Launch` button
 - click `Hide` button
 - click `Create a Java Project` link, found in `Package Explorer`
-- enter the follwing in the `Project name` field: `Homework1`
+- enter the following in the `Project name` field: `Homework1`
 
 near bottom, turn off the following two checkboxes:
 1. `Create module-info.java file`
