@@ -152,7 +152,7 @@ It would be nice to have a relatively easy way to prevent other files, most of w
 
 One way to do this is to create a `.gitignore` file, directly under `.../IntegratedProjects` and therefore adjacent to both `.git` and `UCSCext`.
 
-In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways to write this `.gitignore` file. Here's one way that works - create and save the new `.gitignore` file, typing in the following:
+In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways to write this `.gitignore` file. Here's one way that works: create and save the new `.gitignore` file, typing in the following:
 
 ```
 .DS_Store
