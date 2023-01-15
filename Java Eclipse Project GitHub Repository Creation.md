@@ -44,7 +44,7 @@ git status
 git config --list
 ```
 
-Response to the above indicates the cloned directory/respository, `IntegratedProjects`, which is connected to the `GitHub` repository of the same name, has been created; it consists of one directory named `.git`.
+Response to the above indicates the cloned directory/respository, `IntegratedProjects`, which is connected to the `GitHub` repository of the same name, has been created, consisting of one directory named `.git`.
 
 # Create a New Java Eclipse Project in the Repository
 
