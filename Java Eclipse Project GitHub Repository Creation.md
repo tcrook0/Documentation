@@ -331,6 +331,7 @@ A few lines down from the top, there is a horizontal display of icons:
 - follow the instructions to confirm...
 
 Notes:
+
 - The page listing all of the repositories for `tcrook0` comes back.
 - The `GitHub` repository `IntegratedProjects` no longer exists.
 
