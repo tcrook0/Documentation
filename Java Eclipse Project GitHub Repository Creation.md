@@ -152,7 +152,7 @@ It would be nice to have a relatively easy way to prevent most of the files from
 
 One way to do this is to create a `.gitignore` file, directly under `.../IntegratedProjects` and therefore adjacent to both `.git` and `UCSCext`.
 
-In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways to write this `.gitignore` file. Here's one way that works - type the following into the `.gitignore` file:
+In this file, the names of files and directories to be excluded from being copied over are listed. There are many different ways to write this `.gitignore` file. Here's one way that works - create and save the new `.gitignore` file, typing in the following:
 
 ```
 .DS_Store
@@ -179,7 +179,7 @@ No commits yet
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-        UCSCext
+	UCSCext/
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
@@ -201,7 +201,7 @@ No commits yet
 
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
-        new file: UCSCext/CMPR_X412/Week1/Homework1/src/Homework1.java
+	new file:   UCSCext/CMPR_X412/Week1/Homework1/src/Homework1.java
 ```
 
 # commit
@@ -212,7 +212,7 @@ from `Terminal`:
 git commit
 ```
 
-This brings up the `vi` editor... Add the following to the `.../.git/COMMIT_EDITMSG` file:
+This brings up the `vi` editor... Append the following to the `.../.git/COMMIT_EDITMSG` file:
 
 ```
 Commit the following Java Eclipse Project: Homework1.
@@ -230,7 +230,7 @@ response:
 On branch main
 Your branch is based on 'origin/main', but the upstream is gone.
   (use "git branch --unset-upstream" to fixup)
-  
+
 nothing to commit, working tree clean
 ```
 
@@ -245,11 +245,20 @@ git push
 response:
 
 ```
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+(base) tomcrook@Toms-MacBook-Pro IntegratedProjects % git push
 Enumerating objects: 8, done.
-Counting objects: 100% (8/8), 2.07 KiB | 2.07 MB/s, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (8/8), 2.07 KiB | 2.07 MiB/s, done.
 Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/trcook0/IntegratedProjects.git
-* [new branch] main -> main
+To https://github.com/tcrook0/IntegratedProjects.git
+ * [new branch]      main -> main
 ```
 
 from `Terminal`:
