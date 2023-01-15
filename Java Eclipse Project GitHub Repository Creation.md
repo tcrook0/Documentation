@@ -4,8 +4,6 @@ Instructions on how to create a `Java Eclipse Project` on a local machine and th
 
 Note: these instructions are repeatable, that is, they include instructions on deleting what was created so that you may repeat the instructions again.
 
-***Note: specific userids, file names, and folder names are used - no attempt has been made to generalize; extrapolate as needed.***
-
 # Create a new GitHub Repository
 
 - go to the `GitHub` website: https://github.com
