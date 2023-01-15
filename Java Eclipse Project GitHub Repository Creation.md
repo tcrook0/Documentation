@@ -2,7 +2,7 @@
 
 Instructions on how to create a `Java Eclipse Project` on a local machine and then store the source code for that project in a `GitHub` repository.
 
-Note: these instructions are repeatable, that is, they include instructions on deleting what was created so that you may repeat the instructions again.
+Note: these instructions are repeatable, that is, they include instructions on deleting what was created so that the instructions may be repeated.
 
 # Create a new GitHub Repository
 
