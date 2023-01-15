@@ -148,7 +148,7 @@ Creating the `Java Eclipse Project`, `Homework1`, generated new files; Only one 
                                    Homework1.java
 ```
 
-It would be nice to have a relatively easy way to prevent other files (files - not directories - the directores should be copied), most of which beging with a dot ('.'), from being copied over...
+It would be nice to have a relatively easy way to prevent other files, most of which beging with a dot ('.'), from being copied over...
 
 One way to do this is to create a `.gitignore` file, directly under `.../IntegratedProjects` and therefore adjacent to both `.git` and `UCSCext`.
 
