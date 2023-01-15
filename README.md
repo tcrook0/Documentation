@@ -2,7 +2,9 @@ This repository contains articles on How to Do Stuff with Git, GitHub, MacOS Ter
 
 At the time of this repository's creation, January 2023, the type of machine and various pieces of the software used were given, below.
 The instructions in the articles refer to specific user accounts, files, folders, etc.
-*Your actual user accounts, files, folders, etc., must be substituted in place of these*.
+
+***Your actual user accounts, files, folders, etc., must be substituted in place of these.***
+
 Keeping the documentation specific in this way also serves as a record of, at least, what did work - and in which environment.
 As time goes on, so does change; if these articles aren't updated periodically, they will fall into decay...
 
