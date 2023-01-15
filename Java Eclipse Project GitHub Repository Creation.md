@@ -335,7 +335,7 @@ Notes:
 - The page listing all of the repositories for `tcrook0` comes back.
 - The `GitHub` repository `IntegratedProjects` no longer exists.
 
-- sign out from `GitHub`
+sign out from `GitHub`
 
 # Delete the Cloned Local Repository
 
