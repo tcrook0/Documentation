@@ -10,7 +10,7 @@ Note: these instructions are repeatable, that is, they include instructions on d
 
 - go to the GitHub website: https://github.com
 - sign in to GitHub as `tcrook0`
-- click `tcrook0` drop-down, in upper right corner
+- click `tcrook0` drop-down, upper right corner
 - click `Your repositories` link
 - click `New` button, below `tcrook0` drop-down
 - enter the following in `Repository name` field: `IntegratedProjects`
@@ -279,7 +279,7 @@ nothing to commit, working tree clean
 # Verify the Source Code for the Project is Now in GitHub
 
 - to avoid any potential refresh issues, sign off from `GitHub` then sign back on
-- click `tcrook0` drop-down, in the upper right corner
+- click `tcrook0` drop-down, upper right corner
 - click `Your repositories`
 - find `IntegratedProjects` in the list of repositories displayed and click on it.
 
@@ -330,7 +330,7 @@ A few lines down from the top, there is a horizontal display of icons:
 - click on the `Delete this repository` button
 - follow the instructions to confirm...
 
-Note that the page listing all of the repositories for `tcrook0` comes back and that `IntegratedProjects` no longer exists.
+Note: the page listing all of the repositories for `tcrook0` comes back and that `IntegratedProjects` no longer exists.
 
 - sign out from `GitHub`
 
@@ -342,6 +342,8 @@ from `Terminal`:
 cd /Users/tomcrook/Documents/_ACME
 ls -al
 ```
+
+Note: the existence of the cloned directory/respository, `IntegratedProjects`.
 
 issue the following commands:
 
