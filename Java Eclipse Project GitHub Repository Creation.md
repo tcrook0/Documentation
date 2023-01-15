@@ -2,9 +2,9 @@
 
 Instructions on how to create a Java Eclipse Project on a local machine and then store the source code for that project in a GitHub repository.
 
-Note that these instructions are repeatable, that is, they include instructions on deleting what was created so that you may repeat the instructions again - as many times as you want to.
+Note: these instructions are repeatable, that is, they include instructions on deleting what was created so that you may repeat the instructions again - as many times as you want to.
 
-***Note that specific userids, file names, and folder names are used - no attempt has been made to generalize: extrapolate as you need to.***
+***Note: specific userids, file names, and folder names are used - no attempt has been made to generalize; extrapolate needed.***
 
 # Create a new GitHub Repository
 
@@ -27,14 +27,14 @@ cd /Users/tomcrook/Documents/_ACME
 git clone https://github.com/tcrook0/IntegratedProjects.git
 ```
 
-response to the above:
+response:
 
 ```
 Cloning into 'IntegratedProjects'...
 warning: You appear to have cloned an empty repository.
 ```
 
-issue commands:
+issue the following commands:
 
 ```
 cd IntegratedProjects
@@ -125,7 +125,7 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
                                    Homework1.java
 ```
 
-Note how this compares with what the directory/repository looked like before `Eclipse`:
+Note: this is what the directory/repository looked like before `Eclipse`:
 
 ```
 .../IntegratedProjects
@@ -295,12 +295,12 @@ Click on this and you will see that the following file was copied over:
 UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 ```
 
-...and none of the other files were copied over - because of the .gitignore.
+...and none of the other files were copied over - because of the `.gitignore`.
 
 # Verify the Project Runs
 
 - bring up `Eclipse`
-- ensure the following is the current workspace:
+- ensure the following is the current `Workspace`:
 
 ```
 /Users/tomcrook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
@@ -330,7 +330,7 @@ A few lines down from the top, there is a horizontal display of icons:
 - click on the `Delete this repository` button
 - follow the instructions to confirm...
 
-Note that the page listing all of the repositories for tcrook0 comes back and that IntegratedProjects no longer exists.
+Note that the page listing all of the repositories for `tcrook0` comes back and that `IntegratedProjects` no longer exists.
 
 - sign out from `GitHub`
 
@@ -343,6 +343,13 @@ cd /Users/tomcrook/Documents/_ACME
 ls -al
 ```
 
-Note that `IntegratedProjects` no longer exists.
+issue the following commands:
+
+```
+rm -fr IntegratedProjects
+ls -al
+```
+
+Note: `IntegratedProjects` no longer exists.
 
 These instructions are repeatable; that is, they will work exactly as before, starting over.
