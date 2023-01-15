@@ -1,6 +1,6 @@
 # Description
 
-Instructions on how to create a Java Eclipse Project on a local machine and then store the source code for that project in a GitHub repository.
+Instructions on how to create a Java Eclipse Project on a local machine and then store the source code for that project in a `GitHub` repository.
 
 Note: these instructions are repeatable, that is, they include instructions on deleting what was created so that you may repeat the instructions again - as many times as you want to.
 
@@ -8,15 +8,15 @@ Note: these instructions are repeatable, that is, they include instructions on d
 
 # Create a new GitHub Repository
 
-- go to the GitHub website: https://github.com
-- sign in to GitHub as `tcrook0`
+- go to the `GitHub` website: https://github.com
+- sign in to `GitHub` as `tcrook0`
 - click `tcrook0` drop-down, upper right corner
 - click `Your repositories` link
 - click `New` button, below `tcrook0` drop-down
 - enter the following in `Repository name` field: `IntegratedProjects`
 - click `Create repository` button, near bottom
 - note the new window with the title `tcrook0/IntegratedProjects`, near top
-- the new GitHub repository, `IntegratedProjects` has been created
+- the new `GitHub` repository, `IntegratedProjects` has been created
 
 # Clone the New Repository on Local Machine
 
@@ -44,7 +44,7 @@ git status
 git config --list
 ```
 
-Response to the above indicates a new directory, the cloned repository `IntegratedProjects`, which is connected to the GitHub repository of the same name, has been created; it consists of one directory named `.git`.
+Response to the above indicates the cloned directory/respository, `IntegratedProjects`, which is connected to the `GitHub` repository of the same name, has been created; it consists of one directory named `.git`.
 
 # Create a New Java Eclipse Project in the Repository
 
@@ -101,7 +101,7 @@ close `Eclipse`
 
 # .gitignore
 
-From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProjects` directory/repository, revealing the following:
+From `Terminal`, issue `ls -al` commands to explore the cloned directory/respository, `IntegratedProjects`, revealing the following:
 
 ```
 .../IntegratedProjects
@@ -125,7 +125,7 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
                                    Homework1.java
 ```
 
-Note: this is what the directory/repository looked like before `Eclipse`:
+Note: this is what the cloned directory/respository, `IntegratedProjects`, looked like before the above `Eclipse` actions:
 
 ```
 .../IntegratedProjects
@@ -330,7 +330,8 @@ A few lines down from the top, there is a horizontal display of icons:
 - click on the `Delete this repository` button
 - follow the instructions to confirm...
 
-Note: the page listing all of the repositories for `tcrook0` comes back and that `IntegratedProjects` no longer exists.
+Note: the page listing all of the repositories for `tcrook0` comes back.
+Note: the `GitHub` repository `IntegratedProjects` no longer exists.
 
 - sign out from `GitHub`
 
@@ -352,6 +353,6 @@ rm -fr IntegratedProjects
 ls -al
 ```
 
-Note: `IntegratedProjects` no longer exists.
+Note: the cloned directory/respository, `IntegratedProjects`, no longer exists.
 
 These instructions are repeatable; that is, they will work exactly as before, starting over.
