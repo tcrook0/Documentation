@@ -313,7 +313,7 @@ bring up `Eclipse`:
 ```
 
 - click `Launch` button
-- click `Hide` button
+- click `Open` button
 - click `Run` drop-down, from menu bar, top
 - click `Run` (first item in drop-down menu)
 
