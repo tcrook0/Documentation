@@ -330,8 +330,9 @@ A few lines down from the top, there is a horizontal display of icons:
 - click on `Delete this repository` button
 - follow the instructions to confirm...
 
-Note: the page listing all of the repositories for `tcrook0` comes back.
-Note: the `GitHub` repository `IntegratedProjects` no longer exists.
+Notes:
+- The page listing all of the repositories for `tcrook0` comes back.
+- The `GitHub` repository `IntegratedProjects` no longer exists.
 
 - sign out from `GitHub`
 
