@@ -112,7 +112,7 @@ From `Terminal`, issue `ls -al` commands to explore the local `IntegratedProject
          CMPR_X412
                   .DS_STORE
                   Week1
-                       .DS_Store
+                       .gitignore
                        .metadata
                        Homework1
                                 .classpath
