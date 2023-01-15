@@ -108,9 +108,7 @@ From `Terminal`, issue `ls -al` commands to explore the cloned directory/resposi
   .DS_Store
   .git
   UCSCext
-         .DS_Store
          CMPR_X412
-                  .DS_STORE
                   Week1
                        .gitignore
                        .metadata
