@@ -16,7 +16,7 @@ Note: these instructions are repeatable, that is, they include instructions on d
 - enter the following in `Repository name` field: `IntegratedProjects`
 - click `Create repository` button, near bottom
 - note the new window with the title `tcrook0/IntegratedProjects`, near top
-- the new `GitHub` repository, `IntegratedProjects` has been created
+- the new `GitHub` repository, `IntegratedProjects`, has been created
 
 # Clone the New Repository on Local Machine
 
