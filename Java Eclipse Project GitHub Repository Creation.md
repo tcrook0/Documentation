@@ -34,7 +34,7 @@ Cloning into 'IntegratedProjects'...
 warning: You appear to have cloned an empty repository.
 ```
 
-issue the following commands:
+from `Terminal`:
 
 ```
 cd IntegratedProjects
@@ -346,7 +346,7 @@ ls -al
 
 Note: the existence of the cloned directory/respository, `IntegratedProjects`.
 
-issue the following commands:
+from `Terminal`:
 
 ```
 rm -fr IntegratedProjects
