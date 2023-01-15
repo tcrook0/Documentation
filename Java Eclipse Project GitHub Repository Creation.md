@@ -357,4 +357,4 @@ ls -al
 
 Note: the cloned directory/respository, `IntegratedProjects`, no longer exists.
 
-These instructions are repeatable; that is, they will work exactly as before, starting over.
+These instructions are repeatable, that is, they will work exactly as before, starting over.
