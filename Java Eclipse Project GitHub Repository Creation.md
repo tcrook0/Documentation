@@ -295,7 +295,7 @@ Click on this and you will see that the following file was copied over:
 UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 ```
 
-...and none of the other files were copied over - because of the `.gitignore`.
+...and none of the other files were copied over - the `.gitignore` file, created above, prevented that from happening.
 
 # Verify the Project Runs
 
