@@ -135,7 +135,7 @@ Note: this is what the cloned directory/respository, `IntegratedProjects`, looke
                   Week1
 ```
 
-Creating the Java Eclipse Project `Homework1` generated a lot of new files! Only one of those new files is to be copied across the local/remote `GitHub` divide:
+Creating the `Java Eclipse Project`, `Homework1`, generated new files; Only one of which is to be copied over to the `GitHub` repository `InteratedProjects`:
 
 ```
 .../IntegratedProjects
@@ -306,8 +306,8 @@ UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 /Users/tomcrook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
 ```
 
-- click `Run` drop-down, from the menu bar, top
-- click `Run` (the first item in the drop-down menu)
+- click `Run` drop-down, from menu bar, top
+- click `Run` (first item in drop-down menu)
 
 A `Console` window should appear with output generated - just as before.
 
@@ -325,9 +325,9 @@ A few lines down from the top, there is a horizontal display of icons:
 * Code * Issues * Pull requests * Actions * Projects * Wiki * Security * Insights * Settings
 ```
 
-- click on the right-most one: `Settings'
-- scroll down to the bottom of the page
-- click on the `Delete this repository` button
+- click on right-most one: `Settings'
+- scroll down to bottom
+- click on `Delete this repository` button
 - follow the instructions to confirm...
 
 Note: the page listing all of the repositories for `tcrook0` comes back.
