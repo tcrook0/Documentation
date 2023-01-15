@@ -309,7 +309,7 @@ UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 - click `Run` drop-down, from the menu bar, top
 - click `Run` (the first item in the drop-down menu)
 
-A `Console` window should appear with output generated - just as before in step 4 (Verify New Java Eclipse Project Runs).
+A `Console` window should appear with output generated - just as before (**Verify New Java Eclipse Project Runs**).
 
 # Delete the Repository on GitHub
 
@@ -345,4 +345,4 @@ ls -al
 
 Note that `IntegratedProjects` no longer exists.
 
-These instructions are repeatable; that is, they will work exactly as before, starting from step 1 (Create a New GitHub Repository).
+These instructions are repeatable; that is, they will work exactly as before, starting over.
