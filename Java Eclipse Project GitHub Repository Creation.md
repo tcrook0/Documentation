@@ -135,7 +135,7 @@ Note: this is what the cloned directory/respository, `IntegratedProjects`, looke
                   Week1
 ```
 
-Creating the `Java Eclipse Project`, `Homework1`, generated new files; Only one of which is to be copied over to the `GitHub` repository `InteratedProjects`:
+Creating the `Java Eclipse Project`, `Homework1`, generated new files; Only one of which, `Homework1.java` is to be copied over to the `GitHub` repository `InteratedProjects`:
 
 ```
 .../IntegratedProjects
