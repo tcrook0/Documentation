@@ -216,6 +216,13 @@ This brings up the `vi` editor... Append the following to the `.../.git/COMMIT_E
 Commit the following Java Eclipse Project: Homework1.
 ```
 
+response:
+
+```
+ 1 file changed, 201 insertions(+)
+ create mode 100644 UCSCext/CMPR_X412/Week1/Homework1/src/Homework1.java
+```
+
 from `Terminal`:
 
 ```
