@@ -106,7 +106,6 @@ From `Terminal`, issue `ls -al` commands to explore the cloned directory/resposi
 
 ```
 .../IntegratedProjects
-  .DS_Store
   .git
   UCSCext
          CMPR_X412
