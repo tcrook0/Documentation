@@ -312,7 +312,8 @@ bring up `Eclipse`:
 /Users/tcrook/Documents/_ACME/IntegratedProjects/UCSCext/CMPR_X412/Week1
 ```
 
-- click Launch button
+- click `Launch` button
+- click `Hide` button
 - click `Run` drop-down, from menu bar, top
 - click `Run` (first item in drop-down menu)
 
