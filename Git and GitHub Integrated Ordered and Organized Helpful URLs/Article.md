@@ -1,3 +1,3 @@
 Cheers!
 
-![experiment](Images/GitHubTrainingManual.png)
+![GitHub Training Manual](Images/GitHubTrainingManual.png)
