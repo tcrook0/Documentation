@@ -1,7 +1,3 @@
-Article.md: The article proper for this folder.
-Images: The .png files used to illustrate Article.md.
-
-
 | File or Folder Name | Description                                                                           |
 | ------------------- | -----------                                                                           |
 | Images              | folder of .png files used to illustrate Article.md                                    |
