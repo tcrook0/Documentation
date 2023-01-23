@@ -96,6 +96,5 @@
 
 | Website | Address | Image |
 | ------- | ------- | ----- |
-| GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) 
-*GitHub Training Manual link* |
+| GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) *GitHub Training Manual link* |
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png)|
