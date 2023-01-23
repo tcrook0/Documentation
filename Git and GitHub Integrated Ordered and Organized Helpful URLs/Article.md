@@ -21,17 +21,17 @@ Cheers!
 ![Reverting Commits](Images/GitHubTrainingManual-RevertingCommits.png)
 *GitHub Training Manual - Reverting Commits*
 
-![Git Reference](Images/GitReference.png)
-*Git - Reference*
+![git Reference](Images/GitReference.png)
+*git - Reference*
 
-![Git Cheat Sheet - GitHub](Images/GitCheatSheet-GitHub.png)
-*Git Cheat Sheet - GitHub*
+![git Cheat Sheet - GitHub](Images/GitCheatSheet-GitHub.png)
+*git Cheat Sheet - GitHub*
 
-![Git Cheat Sheet - NDP Software](Images/GitCheatSheet-NDP.png)
-*Git Cheat Sheet - NDP Software*
+![git Cheat Sheet - NDP Software](Images/GitCheatSheet-NDP.png)
+*git Cheat Sheet - NDP Software*
 
 ![git documentation](Images/git.png)
-*git command documentation*
+*git documentation*
 
 ![git-branch](Images/git-branch.png)
 *git documentation: git-branch*
@@ -40,10 +40,10 @@ Cheers!
 *git documentation: git-merge*
 
 ![git-revert](Images/git-revert.png)
-*git Documentation: git-revert*
+*git documentation: git-revert*
 
 ![Git - Book](Images/GitBook.png)
-*A Git Textbook*
+*A git Textbook*
 
 ![GitHub Docs](Images/GitHubDocs.png)
 *GitHub Documentation*
@@ -64,4 +64,4 @@ Cheers!
 *GitHub Documentation: Resolving a Merge Conflict*
 
 ![GitHub Docs Merge Conflict Resolution Using Command Line](Images/GitHubDocs-MergeConflictResolutionCommandLine.png)
-*GitHub Documentation: Resolving a Merge Conflict Using the Command Libne*
+*GitHub Documentation: Resolving a Merge Conflict Using the Command Line*
