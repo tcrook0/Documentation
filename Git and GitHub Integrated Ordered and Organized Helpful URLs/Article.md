@@ -24,7 +24,7 @@
 
 
 
-![??????????](Images/BookmarksWebsiteAndAddress.png)
+![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
 
 ![](Images/GitHubTrainingManual.png)
