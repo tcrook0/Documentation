@@ -1,4 +1,6 @@
-Cheers!
+| Website                | Address                                             |
+| -------                | -------                                             |
+| GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ |
 
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
