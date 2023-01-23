@@ -1,6 +1,7 @@
 | Website | Address |
 | ------- | ------- |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ |
+| Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
 | GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow |
 | Branching with Git | https://githubtraining.github.io/training-manual/#/04_branching_with_git |
 | Merging Pull Requests | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests |
@@ -25,6 +26,8 @@
 
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
+
+
 
 ![](Images/GitHubTrainingManual.png)
 *GitHub Training Manual link*
@@ -91,8 +94,7 @@
 
 
 
-
 | Website | Address | Image |
 | ------- | ------- | ----- |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/BookmarksWebsiteAndAddress.png) |
-| GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow | ![](Images/GitHubTrainingManual.png) |
+| Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png)|
