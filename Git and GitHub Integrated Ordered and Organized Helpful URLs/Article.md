@@ -1,8 +1,27 @@
-| Website                 | Address                                                                       |
-| -------                 | -------                                                                       |
-| GitHub Training Manual  | https://githubtraining.github.io/training-manual/#/                           |
-| Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
-| GitHub Flow             | https://githubtraining.github.io/training-manual/#/03_github_flow             |
+| Website                                                             | Address                                                                       |
+| -------                                                             | -------                                                                       |
+| GitHub Training Manual                                              | https://githubtraining.github.io/training-manual/#/                           |
+| Getting Ready for Class                                             | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
+| GitHub Flow                                                         | https://githubtraining.github.io/training-manual/#/03_github_flow             |
+| Branching with Git                                                  ||
+| Merging Pull Requests                                               ||
+| Reverting Commits                                                   ||
+| Git - Reference                                                     ||
+| GitHub Git Cheat Sheet - GitHub Cheatsheets                         ||
+| stash :: Git Cheatsheet :: NDP Software                             ||
+| Git - git Documentation                                             ||
+| Git - git-branch Documentation                                      ||
+| Git - git-merge Documentation                                       ||
+| Git - git-revert Documentation                                      ||
+| Git - Book                                                          ||
+| GitHub Documentation                                                ||
+| Pull requests - GitHub Docs                                         ||
+| About branches - GitHub Docs                                        ||
+| Creating and deleting branches within your repository - GitHub Docs ||
+| About merge conflicts - GitHub Docs                                 ||
+| Resolving a merge conflict on GitHub - GitHub Docs                  ||
+| Resolving a merge conflict using the command line - GitHub Docs     ||
+
 
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
