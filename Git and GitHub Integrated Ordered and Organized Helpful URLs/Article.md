@@ -1,6 +1,6 @@
 Cheers!
 
-![Bookmarks](Images/BookmarksWebsiteAndAddress.png)
+![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
 
 ![GitHub Training Manual](Images/GitHubTrainingManual.png)
@@ -63,5 +63,5 @@ Cheers!
 ![GitHub Docs Merge Conflict Resolution](Images/GitHubDocs-MergeConflictResolution.png)
 *GitHub Documentation: Resolving a Merge Conflict*
 
-![GitHub Docs Merge Conflict Resolution Using Command Line](Images/GitHubDocs-MergeConflictResolutionCommandLine.png)
+![](Images/GitHubDocs-MergeConflictResolutionCommandLine.png)
 *GitHub Documentation: Resolving a Merge Conflict Using the Command Line*
