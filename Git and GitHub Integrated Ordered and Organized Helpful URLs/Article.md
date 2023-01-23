@@ -12,11 +12,11 @@
 | Git - git Documentation                                             | https://git-scm.com/docs/git#_git_commands                                    |
 | Git - git-branch Documentation                                      | https://git-scm.com/docs/git-branch                                           |
 | Git - git-merge Documentation                                       | https://git-scm.com/docs/git-merge                                            |
-| Git - git-revert Documentation                                      | https://git-scm.com/book/en/v2                                                |
-| Git - Book                                                          | https://docs.github.com/en                                                    |
-| GitHub Documentation                                                | https://docs.github.com/en/pull-requests                                      |
-| Pull requests - GitHub Docs                                         | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches|
-| About branches - GitHub Docs                                        ||
+| Git - git-revert Documentation                                      | https://git-scm.com/docs/git-revert                                           |
+| Git - Book                                                          | https://git-scm.com/book/en/v2                                                |
+| GitHub Documentation                                                | https://docs.github.com/en                                                    |
+| Pull requests - GitHub Docs                                         | https://docs.github.com/en/pull-requests|
+| About branches - GitHub Docs                                        | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches |
 | Creating and deleting branches within your repository - GitHub Docs ||
 | About merge conflicts - GitHub Docs                                 ||
 | Resolving a merge conflict on GitHub - GitHub Docs                  ||
