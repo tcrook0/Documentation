@@ -94,7 +94,12 @@
 
 
 
-| *Website* | **Address** | ***Image*** |
-| ------- | ------- | ----- |
+| Website | *Address* | ***Image*** |
+| ------- |  -------  |    -----    |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) |
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png) *It's a good idea to work through the steps...* |
+
+
+| no asterisk | *one asterisk* | **two asterisk** | ***three asterisks*** |
+| ----------- |  ------------  |   ------------   |    ---------------    |
+| 0           |  1             |   2              |    3                  |
