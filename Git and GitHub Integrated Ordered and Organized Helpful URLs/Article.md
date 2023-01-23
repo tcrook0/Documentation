@@ -1,5 +1,5 @@
 Cheers!
 
-![Bookmarks](Images/Git\(Hub\) Bookmarks WebSite and Address.png)
+![Bookmarks](Images/BookmarksWebSiteAndAddress.png)
 
 ![GitHub Training Manual](Images/GitHubTrainingManual.png)
