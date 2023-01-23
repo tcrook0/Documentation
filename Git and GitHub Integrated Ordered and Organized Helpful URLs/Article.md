@@ -1,6 +1,7 @@
-| Website                | Address                                             |
-| -------                | -------                                             |
-| GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ |
+| Website                 | Address                                                                       |
+| -------                 | -------                                                                       |
+| GitHub Training Manual  | https://githubtraining.github.io/training-manual/#/                           |
+| Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
 
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
