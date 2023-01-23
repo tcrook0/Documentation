@@ -1,112 +1,67 @@
 Cheers!
 
 ![Bookmarks](Images/BookmarksWebsiteAndAddress.png)
-*Bookmarks for Integrated Ordered and Organized URLs.*
+*Bookmarks for Integrated Ordered and Organized URLs*
 
 ![GitHub Training Manual](Images/GitHubTrainingManual.png)
-*Link to the GitHub Training Manual*
+*GitHub Training Manual link*
 
-![](Images/GitHubTrainingManual-GettingReadyForClass.png)
-**
+![Getting Ready for Class](Images/GitHubTrainingManual-GettingReadyForClass.png)
+*GitHub Training Manual - Getting Ready for Class*
 
-![](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png)
-**
+![GitHub Flow](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png)
+*GitHub Training Manual - GitHub Flow*
 
-![](Images/GitHubTrainingManual-BranchingGit.png)
-**
+![Branching with Git](Images/GitHubTrainingManual-BranchingGit.png)
+*GitHub Training Manual - Branching with Git*
 
-![](Images/GitHubTrainingManual-MergingPullRequests.png)
-**
+![Merging Pull Requests](Images/GitHubTrainingManual-MergingPullRequests.png)
+*GitHub Training Manual - Merging Pull Requests*
 
-![](Images/GitHubTrainingManual-RevertingCommits.png)
-**
+![Reverting Commits](Images/GitHubTrainingManual-RevertingCommits.png)
+*GitHub Training Manual - Reverting Commits*
 
-![](Images/GitReference.png)
-**
+![Git Reference](Images/GitReference.png)
+*Git - Reference*
 
-![](Images/GitCheatSheet-GitHub.png)
-**
+![Git Cheat Sheet - GitHub](Images/GitCheatSheet-GitHub.png)
+*Git Cheat Sheet - GitHub*
 
-![](Images/GitCheatSheet-NDP.png)
-**
+![Git Cheat Sheet - NDP Software](Images/GitCheatSheet-NDP.png)
+*Git Cheat Sheet - NDP Software*
 
-![](Images/git.png)
-**
+![git documentation](Images/git.png)
+*git command documentation*
 
-![](Images/git-branch.png)
-**
+![git-branch](Images/git-branch.png)
+*git documentation: git-branch*
 
-![](Images/git-merge.png)
-**
+![git-merge](Images/git-merge.png)
+*git documentation: git-merge*
 
-![](Images/git-revert.png)
-**
+![git-revert](Images/git-revert.png)
+*git Documentation: git-revert*
 
-![](Images/GitBook.png)
-**
+![Git - Book](Images/GitBook.png)
+*A Git Textbook*
 
-![](Images/GitHubDocs.png)
-**
+![GitHub Docs](Images/GitHubDocs.png)
+*GitHub Documentation*
 
-![](Images/GitHubDocs-PullRequests.png)
-**
+![GitHub Docs Pull Requests](Images/GitHubDocs-PullRequests.png)
+*GitHub Documentation: Pull Requests*
 
-![](Images/GitHubDocs-Branches.png)
-**
+![GitHub Docs Branches](Images/GitHubDocs-Branches.png)
+*GitHub Documentation: About Branches*
 
-![](Images/GitHubDocs-CreatingAndDeletingBranches.png)
-**
+![GitHub Docs Creating and Deleting Branches](Images/GitHubDocs-CreatingAndDeletingBranches.png)
+*GitHub Documentation: Creating And Deleting Branches*
 
-![](Images/GitHubDocs-MergeConflicts.png)
-**
+![GitHub Docs Merge Conflicts](Images/GitHubDocs-MergeConflicts.png)
+*GitHub Documentation: About Merge Conflicts*
 
-![](Images/GitHubDocs-MergeConflictResolution.png)
-**
+![GitHub Docs Merge Conflict Resolution](Images/GitHubDocs-MergeConflictResolution.png)
+*GitHub Documentation: Resolving a Merge Conflict*
 
-![](Images/GitHubDocs-MergeConflictResolutionCommandLine.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
-
-![](Images/.png)
-**
+![GitHub Docs Merge Conflict Resolution Using Command Line](Images/GitHubDocs-MergeConflictResolutionCommandLine.png)
+*GitHub Documentation: Resolving a Merge Conflict Using the Command Libne*
