@@ -3,14 +3,14 @@
 | GitHub Training Manual                                              | https://githubtraining.github.io/training-manual/#/                           |
 | Getting Ready for Class                                             | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
 | GitHub Flow                                                         | https://githubtraining.github.io/training-manual/#/03_github_flow             |
-| Branching with Git                                                  ||
-| Merging Pull Requests                                               ||
-| Reverting Commits                                                   ||
-| Git - Reference                                                     ||
-| GitHub Git Cheat Sheet - GitHub Cheatsheets                         ||
-| stash :: Git Cheatsheet :: NDP Software                             ||
-| Git - git Documentation                                             ||
-| Git - git-branch Documentation                                      ||
+| Branching with Git                                                  | https://githubtraining.github.io/training-manual/#/04_branching_with_git      |
+| Merging Pull Requests                                               | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests   |
+| Reverting Commits                                                   | https://githubtraining.github.io/training-manual/#/15_reverting_commits       |
+| Git - Reference                                                     | https://git-scm.com/docs                                                      |
+| GitHub Git Cheat Sheet - GitHub Cheatsheets                         | https://training.github.com/downloads/github-git-cheat-sheet/                 |
+| stash :: Git Cheatsheet :: NDP Software                             | https://ndpsoftware.com/git-cheatsheet.html#loc=stash;                        |
+| Git - git Documentation                                             | https://git-scm.com/docs/git#_git_commands                                    |
+| Git - git-branch Documentation                                      | https://git-scm.com/docs/git-branch                                           |
 | Git - git-merge Documentation                                       ||
 | Git - git-revert Documentation                                      ||
 | Git - Book                                                          ||
