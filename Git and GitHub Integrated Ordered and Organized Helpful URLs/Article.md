@@ -17,10 +17,10 @@
 | GitHub Documentation                                                | https://docs.github.com/en                                                    |
 | Pull requests - GitHub Docs                                         | https://docs.github.com/en/pull-requests|
 | About branches - GitHub Docs                                        | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches |
-| Creating and deleting branches within your repository - GitHub Docs ||
-| About merge conflicts - GitHub Docs                                 ||
-| Resolving a merge conflict on GitHub - GitHub Docs                  ||
-| Resolving a merge conflict using the command line - GitHub Docs     ||
+| Creating and deleting branches within your repository - GitHub Docs | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository |
+| About merge conflicts - GitHub Docs                                 | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts |
+| Resolving a merge conflict on GitHub - GitHub Docs                  | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github |
+| Resolving a merge conflict using the command line - GitHub Docs     | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line |
 
 
 ![](Images/BookmarksWebsiteAndAddress.png)
