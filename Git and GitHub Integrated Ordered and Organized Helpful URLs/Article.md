@@ -102,6 +102,7 @@
 | Branching with Git | https://githubtraining.github.io/training-manual/#/04_branching_with_git | ![](Images/GitHubTrainingManual-BranchingGit.png) |
 | Merging Pull Requests | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests | ![](Images/GitHubTrainingManual-MergingPullRequests.png) |
 | Reverting Commits | https://githubtraining.github.io/training-manual/#/15_reverting_commits | ![](Images/GitHubTrainingManual-RevertingCommits.png) |
-| Git - Reference | https://git-scm.com/docs | ![](Images/GitReference.png) | | GitHub Git Cheat Sheet - GitHub Cheatsheets | https://training.github.com/downloads/github-git-cheat-sheet/ | 
-
+| Git - Reference | https://git-scm.com/docs | ![](Images/GitReference.png) |
+| GitHub Git Cheat Sheet - GitHub Cheatsheets | https://training.github.com/downloads/github-git-cheat-sheet/ | ![](Images/GitCheatSheet-GitHub.png) |
+| stash :: Git Cheatsheet :: NDP Software | https://ndpsoftware.com/git-cheatsheet.html#loc=stash; | ![](Images/GitCheatSheet-NDP.png) |
 
