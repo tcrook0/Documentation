@@ -20,7 +20,7 @@
 | Git - git-revert Documentation | https://git-scm.com/docs/git-revert | ![](Images/git-revert.png) |
 | Git - Book | https://git-scm.com/book/en/v2 | ![](Images/GitBook.png) |
 | GitHub Documentation | https://docs.github.com/en | ![](Images/GitHubDocs.png) |
-| Pull requests - GitHub Docs | https://docs.github.com/en/pull-requests. | ![](Images/GitHubDocs-PullRequests.png) |
+| Pull requests - GitHub Docs | https://docs.github.com/en/pull-requests | ![](Images/GitHubDocs-PullRequests.png) |
 | About branches - GitHub Docs | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches | ![](Images/GitHubDocs-Branches.png) |
 | Creating and deleting branches within your repository - GitHub Docs | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository | ![](Images/GitHubDocs-CreatingAndDeletingBranches.png) |
 | About merge conflicts - GitHub Docs | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts | ![](Images/GitHubDocs-MergeConflicts.png) |
