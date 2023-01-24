@@ -4,7 +4,7 @@
 
 
 | Website | Address | Image |
-| - | ------- | ----- |
+| - | - | - |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) |
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png) *It's a good idea to work through the steps...* |
 | GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow | ![](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png) |
@@ -13,10 +13,10 @@
 | Reverting Commits | https://githubtraining.github.io/training-manual/#/15_reverting_commits | ![](Images/GitHubTrainingManual-RevertingCommits.png) |
 | Git - Reference | https://git-scm.com/docs | ![](Images/GitReference.png) |
 | GitHub Git Cheat Sheet - GitHub Cheatsheets | https://training.github.com/downloads/github-git-cheat-sheet/ | ![](Images/GitCheatSheet-GitHub.png) |
-| stash :: Git Cheatsheet :: NDP Software | https://ndpsoftware.com/git-cheatsheet.html#loc=stash; | ![](Images/GitCheatSheet-NDP.png) |
-| Git - git Documentation | https://git-scm.com/docs/git#_git_commands | ![](Images/git.png) |
+| stash :: Git Cheatsheet :: NDP Software | https://ndpsoftware.com/git-cheatsheet.html#loc=stash;  | ![](Images/GitCheatSheet-NDP.png) |
+| Git - git Documentation | https://git-scm.com/docs/git#_git_commands | ![](Images/git.png)        |
 | Git - git-branch Documentation | https://git-scm.com/docs/git-branch | ![](Images/git-branch.png) |
-| Git - git-merge Documentation | https://git-scm.com/docs/git-merge | ![](Images/git-merge.png) |
+| Git - git-merge Documentation  | https://git-scm.com/docs/git-merge  | ![](Images/git-merge.png)  |
 | Git - git-revert Documentation | https://git-scm.com/docs/git-revert | ![](Images/git-revert.png) |
 | Git - Book | https://git-scm.com/book/en/v2 | ![](Images/GitBook.png) |
 | GitHub Documentation | https://docs.github.com/en | ![](Images/GitHubDocs.png) |
