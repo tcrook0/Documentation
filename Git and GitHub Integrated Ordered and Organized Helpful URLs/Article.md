@@ -98,7 +98,7 @@
 | ------- | ------- | ----- |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) |
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png) *It's a good idea to work through the steps...* |
-| Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png) |
+| GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow | ![](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png) |
 | Branching with Git | https://githubtraining.github.io/training-manual/#/04_branching_with_git | ![](Images/GitHubTrainingManual-BranchingGit.png) |
 | Merging Pull Requests | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests | ![](Images/GitHubTrainingManual-MergingPullRequests.png) |
 | Reverting Commits | https://githubtraining.github.io/training-manual/#/15_reverting_commits | ![](Images/GitHubTrainingManual-RevertingCommits.png) |
