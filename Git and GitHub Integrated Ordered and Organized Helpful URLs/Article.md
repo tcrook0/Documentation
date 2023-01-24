@@ -3,9 +3,18 @@
 
 
 
-| Website | Address | Image |
-| ------- | ------- | ----- |
-| GitHub Training Manual | https://githubtraining.github.io/training-manual/#/ | ![](Images/GitHubTrainingManual.png) |
+| Website 
+| Address 
+| Image |
+
+| ------- 
+| ------- 
+| ----- |
+
+| GitHub Training Manual 
+| https://githubtraining.github.io/training-manual/#/ 
+| ![](Images/GitHubTrainingManual.png) |
+
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | ![](Images/GitHubTrainingManual-GettingReadyForClass.png) *It's a good idea to work through the steps...* |
 | GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow | ![](Images/GitHubTrainingManual-UnderstandingGitHubFlow.png) |
 | Branching with Git | https://githubtraining.github.io/training-manual/#/04_branching_with_git | ![](Images/GitHubTrainingManual-BranchingGit.png) |
