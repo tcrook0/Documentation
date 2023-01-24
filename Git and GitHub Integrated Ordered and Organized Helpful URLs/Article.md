@@ -3,12 +3,8 @@
 
 
 
-| Website 
-| Address 
-| Image |
-| ------- 
-| ------- 
-| ----- |
+| Website | Address | Image |
+| ------- | ------- | ----- |
 | GitHub Training Manual 
 | https://githubtraining.github.io/training-manual/#/ 
 | ![](Images/GitHubTrainingManual.png) |
