@@ -1,8 +1,6 @@
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
 
-
-
 | Website | Address | Image |
 | -       | -       | -     |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/# | ![](Images/GitHubTrainingManual.png) |
