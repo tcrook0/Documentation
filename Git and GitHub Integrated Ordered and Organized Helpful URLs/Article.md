@@ -12,7 +12,7 @@
 | Merging Pull Requests | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests | ![](Images/GitHubTrainingManual-MergingPullRequests.png) |
 | Reverting Commits | https://githubtraining.github.io/training-manual/#/15_reverting_commits | ![](Images/GitHubTrainingManual-RevertingCommits.png) |
 | Git - Reference | https://git-scm.com/docs | ![](Images/GitReference.png) |
-| GitHub Git Cheat Sheet - GitHub Cheatsheets | https://training.github.com/downloads/github-git-cheat-sheet/ | ![](Images/GitCheatSheet-GitHub.png) |
+| GitHub Git Cheat Sheet - GitHub Cheatsheets | https://training.github.com/downloads/github-git-cheat-sheet | ![](Images/GitCheatSheet-GitHub.png) |
 | stash :: Git Cheatsheet :: NDP Software | https://ndpsoftware.com/git-cheatsheet.html#loc=stash | ![](Images/GitCheatSheet-NDP.png) |
 | Git - git Documentation | https://git-scm.com/docs/git#_git_commands | ![](Images/git.png) |
 | Git - git-branch Documentation | https://git-scm.com/docs/git-branch | ![](Images/git-branch.png) |
