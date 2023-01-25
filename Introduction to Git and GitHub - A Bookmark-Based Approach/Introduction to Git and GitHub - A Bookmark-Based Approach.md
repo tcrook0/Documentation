@@ -15,10 +15,10 @@
 
 ## Git
 
-| Website           | Address         |
-| -                 | -               |
-| [Git - Wikipedia] | Git - Wikipedia |
-| [Git]             | Git             |
+| Website                           | Address                            |
+| -                                 | -                                  |
+| [Git - Wikipedia] Git - Wikipedia | https://en.wikipedia.org/wiki/Git  |
+| [Git]             Git             | https://git-scm.com/               |
 
 [Git - Wikipedia]: https://en.wikipedia.org/wiki/Git
 [Git]:             https://git-scm.com/
