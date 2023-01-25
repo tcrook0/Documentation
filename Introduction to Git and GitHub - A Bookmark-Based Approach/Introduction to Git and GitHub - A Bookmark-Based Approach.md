@@ -1,5 +1,4 @@
 - Git
-  - Git - Wikipedia
 - GitHub
   - Docs
   - Training
@@ -10,7 +9,16 @@
   - Writing
     - The Markdown Guide
 
-
+# Git
+# GitHub
+## Docs
+## Training
+### Get started
+#### Quickstart
+#### Skills
+### YouTube
+## Writing
+### The Markdown Guide
 
 
 ![](Images/BookmarksWebsiteAndAddress.png)
