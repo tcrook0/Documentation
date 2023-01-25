@@ -144,5 +144,22 @@
 [GitHub - skills/introduction-to-github: Get started using GitHub in less than an hour]: https://github.com/skills/introduction-to-github
 
 #### YouTube
+
+| Website | Address |
+| -       | -       |
+| [How GitHub works - YouTube] | https://www.youtube.com/watch?v=w3jLJU7DT5E |
+| [Branch • GitHub & Git Foundations - YouTube] | https://www.youtube.com/watch?v=H5GJfcp3p4Q |
+| [COLL 01 Exploring a Repository - YouTube] | https://www.youtube.com/watch?v=R8OAwrcMlRw |
+| [CONT 01 Understanding the GitHub Flow - YouTube] | https://www.youtube.com/watch?v=PBI2Rz-ZOxU |
+| [CONT 02 Using Branches - YouTube] | https://www.youtube.com/watch?v=xgQmu81G1yY |
+| [CONT 035 Creating Pull Requests - YouTube] | https://www.youtube.com/watch?v=kJr-PIfLDl4 |
+
+[How GitHub works - YouTube]: https://www.youtube.com/watch?v=w3jLJU7DT5E
+[Branch • GitHub & Git Foundations - YouTube]: https://www.youtube.com/watch?v=H5GJfcp3p4Q
+[COLL 01 Exploring a Repository - YouTube]: https://www.youtube.com/watch?v=R8OAwrcMlRw
+[CONT 01 Understanding the GitHub Flow - YouTube]: [https://www.youtube.com/watch?v=R8OAwrcMlRw](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
+[CONT 02 Using Branches - YouTube]: https://www.youtube.com/watch?v=xgQmu81G1yY
+[CONT 035 Creating Pull Requests - YouTube]: https://www.youtube.com/watch?v=kJr-PIfLDl4
+
 ### Writing
 #### The Markdown Guide
