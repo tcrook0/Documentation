@@ -14,7 +14,7 @@
       - Skills
     - YouTube
   - [Writing](#Writing)
-    - [The Markdown Guide](#The%20Markdown%20Guide)
+    - [The Markdown Guide](#The Markdown Guide)
 
 
 
