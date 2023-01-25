@@ -110,6 +110,15 @@
 [Reverting Commits]: https://githubtraining.github.io/training-manual/#/15_reverting_commits
 
 #### Get started
+
+| Website | Address |
+| -       | -       |
+| [Getting started with GitHub - GitHub Docs] | https://docs.github.com/en/get-started |
+| [Verifying your email address - GitHub Docs] | https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address |
+
+[Getting started with GitHub - GitHub Docs]: https://docs.github.com/en/get-started
+[Verifying your email address - GitHub Docs]: https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address
+
 ##### Quickstart
 ##### Skills
 #### YouTube
