@@ -16,7 +16,7 @@
   - [Writing](#Writing)
     - [Markdown](#Markdown)
 
-[Get Bob](#Get%20started)
+[Get Bob](#Get%20started HOW DO I LINK TO HEADERS WITH SPACES IN THEM????)
 
 [Markdown](#Markdown)
 
