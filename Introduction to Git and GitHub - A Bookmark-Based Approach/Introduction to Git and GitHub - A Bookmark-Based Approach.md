@@ -60,6 +60,9 @@
 | Website | Address |
 | -       | -       |
 | [GitHub Documentation] | https://docs.github.com/en |
+| [Authentication - GitHub Docs] | https://docs.github.com/en/authentication |
+| [Creating a personal access token - GitHub Docs] | https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token |
+| [Accessing GitHub using two-factor authentication - GitHub Docs] | https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line |
 | [Adding a file to a repository - GitHub Docs] | https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository |
 | [Managing your profile README - GitHub Docs] | https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme |
 | [Pull requests - GitHub Docs] | https://docs.github.com/en/pull-requests |
@@ -70,12 +73,11 @@
 | [About merge conflicts - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts |
 | [Resolving a merge conflict on GitHub - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github |
 | [Resolving a merge conflict using the command line - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line |
-| [Authentication - GitHub Docs] | https://docs.github.com/en/authentication |
-| [Creating a personal access token - GitHub Docs] | https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token |
-| [Accessing GitHub using two-factor authentication - GitHub Docs] | https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line |
 
 [GitHub Documentation]: https://docs.github.com/en
 [Authentication - GitHub Docs]: https://docs.github.com/en/authentication
+[Creating a personal access token - GitHub Docs]: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+[Accessing GitHub using two-factor authentication - GitHub Docs]: https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line
 [Adding a file to a repository - GitHub Docs]: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 [Managing your profile README - GitHub Docs]: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 [Pull requests - GitHub Docs]: https://docs.github.com/en/pull-requests
@@ -86,8 +88,6 @@
 [About merge conflicts - GitHub Docs]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
 [Resolving a merge conflict on GitHub - GitHub Docs]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
 [Resolving a merge conflict using the command line - GitHub Docs]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
-[Creating a personal access token - GitHub Docs]: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-[Accessing GitHub using two-factor authentication - GitHub Docs]: https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication#using-two-factor-authentication-with-the-command-line
 
 ### Training
 #### Get started
