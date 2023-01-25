@@ -1,9 +1,9 @@
 ![](Images/BookmarksWebsiteAndAddress.png)
 *Bookmarks for Integrated Ordered and Organized URLs*
 
-| Website | Address | Image |
-| -       | -       | -     |
-| [GitHub Training Manual] |
+| Website | Address |
+| -       | -       |
+| [GitHub Training Manual] | <GitHub Training Manual> |
 | GitHub Training Manual | https://githubtraining.github.io/training-manual/# |  |
 | Getting Ready for Class | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class | |
 | GitHub Flow | https://githubtraining.github.io/training-manual/#/03_github_flow | |
