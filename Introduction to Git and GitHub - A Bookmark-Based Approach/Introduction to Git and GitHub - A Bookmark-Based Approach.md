@@ -179,7 +179,7 @@
 | -       | -       |
 | [Markdown - Wikipedia] | https://en.wikipedia.org/wiki/Markdown |
 | [Markdown Guide] | https://www.markdownguide.org |
-| [About | Markdown Guide] | https://www.markdownguide.org/about |
+| [About \| Markdown Guide] | https://www.markdownguide.org/about |
 | [Getting Started | Markdown Guide] | https://www.markdownguide.org/getting-started |
 | [Markdown Cheat Sheet | Markdown Guide] | https://www.markdownguide.org/cheat-sheet |
 | [Basic Syntax | Markdown Guide] | https://www.markdownguide.org/basic-syntax |
@@ -188,7 +188,7 @@
 
 [Markdown - Wikipedia]: https://en.wikipedia.org/wiki/Markdown
 [Markdown Guide]: https://www.markdownguide.org
-[About | Markdown Guide]: https://www.markdownguide.org/about
+[About \| Markdown Guide]: https://www.markdownguide.org/about
 [Getting Started | Markdown Guide]: https://www.markdownguide.org/getting-started
 [Markdown Cheat Sheet | Markdown Guide]: https://www.markdownguide.org/cheat-sheet
 [Basic Syntax | Markdown Guide]: https://www.markdownguide.org/basic-syntax
