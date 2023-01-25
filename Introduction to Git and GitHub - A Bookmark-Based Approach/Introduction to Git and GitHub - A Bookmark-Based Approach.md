@@ -18,7 +18,7 @@
 
 [The Markdown Guide]: https://github.com/tcrook0/Documentation/blob/main/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach.md#the-markdown-guide
 
-[Java Eclipse Project GitHub Repository Creation](../../Java Eclipse Project GitHub Repository Creation.md)
+[Java Eclipse Project GitHub Repository Creation](/../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
 # Git and GitHub Bookmarks
 
