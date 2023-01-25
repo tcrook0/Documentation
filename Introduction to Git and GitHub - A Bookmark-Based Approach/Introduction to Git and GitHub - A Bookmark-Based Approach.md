@@ -13,7 +13,7 @@
       - Quickstart
       - Skills
     - YouTube
-  - Writing
+  - [Writing](#Writing)
     - [The Markdown Guide](#The%20Markdown%20Guide)
 
 
