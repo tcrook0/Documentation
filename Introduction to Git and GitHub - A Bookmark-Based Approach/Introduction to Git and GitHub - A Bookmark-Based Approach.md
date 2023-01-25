@@ -45,8 +45,8 @@
 
 ## GitHub
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [GitHub - Wikipedia] | https://en.wikipedia.org/wiki/GitHub |
 | [GitHub: Let’s build from here · GitHub] | https://github.com |
 | [About] | https://github.com/about |
@@ -57,8 +57,8 @@
 
 ### Docs
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [GitHub Documentation] | https://docs.github.com/en |
 | [Authentication - GitHub Docs] | https://docs.github.com/en/authentication |
 | [Creating a personal access token - GitHub Docs] | https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token |
@@ -91,8 +91,8 @@
 
 ### Training
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [GitHub Training Kit - GitHub Cheatsheets] | https://training.github.com |
 | [GitHub Training Manual] | https://githubtraining.github.io/training-manual/# |
 | [Getting Ready for Class] | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
@@ -111,8 +111,8 @@
 
 #### Get started
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [Getting started with GitHub - GitHub Docs] | https://docs.github.com/en/get-started |
 | [Verifying your email address - GitHub Docs] | https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address |
 
@@ -121,8 +121,8 @@
 
 ##### Quickstart
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [Quickstart - GitHub Docs] | https://docs.github.com/en/get-started/quickstart |
 | [Hello World - GitHub Docs] | https://docs.github.com/en/get-started/quickstart/hello-world |
 | [GitHub flow - GitHub Docs] | https://docs.github.com/en/get-started/quickstart/github-flow |
@@ -135,8 +135,8 @@
 
 ##### Skills
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [GitHub Skills] | https://skills.github.com |
 | [GitHub - skills/introduction-to-github: Get started using GitHub in less than an hour] | https://github.com/skills/introduction-to-github |
 
@@ -145,8 +145,8 @@
 
 #### YouTube
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [How GitHub works - YouTube] | https://www.youtube.com/watch?v=w3jLJU7DT5E |
 | [Branch • GitHub & Git Foundations - YouTube] | https://www.youtube.com/watch?v=H5GJfcp3p4Q |
 | [COLL 01 Exploring a Repository - YouTube] | https://www.youtube.com/watch?v=R8OAwrcMlRw |
@@ -163,8 +163,8 @@
 
 ### Writing
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [Quickstart for writing on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github |
 | [About writing and formatting on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github |
 | [Basic writing and formatting syntax - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text |
@@ -175,8 +175,8 @@
 
 #### The Markdown Guide
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [Markdown - Wikipedia] | https://en.wikipedia.org/wiki/Markdown |
 | [Markdown Guide] | https://www.markdownguide.org |
 | [About \| Markdown Guide] | https://www.markdownguide.org/about |
