@@ -5,7 +5,7 @@
 
 # Git and GitHub Bookmark Folders - An Outline
 
-- Git
+- [Git](#Git)
 - GitHub
   - Docs
   - Training
