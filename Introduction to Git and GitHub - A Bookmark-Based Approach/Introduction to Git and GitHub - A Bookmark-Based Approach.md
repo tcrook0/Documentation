@@ -16,7 +16,7 @@
   - Writing
     - [The Markdown Guide]
 
-[The Markdown Guide]: https://github.com/tcrook0/Documentation/blob/main/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach.md#the-markdown-guide
+
 
 [The Markdown Guide](#The Markdown Guide)
 
