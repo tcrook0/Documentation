@@ -162,4 +162,15 @@
 [CONT 035 Creating Pull Requests - YouTube]: https://www.youtube.com/watch?v=kJr-PIfLDl4
 
 ### Writing
+
+| Website | Address |
+| -       | -       |
+| [Quickstart for writing on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github |
+| [About writing and formatting on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github |
+| [Basic writing and formatting syntax - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text |
+
+[Quickstart for writing on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+[About writing and formatting on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
+[Basic writing and formatting syntax - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
+
 #### The Markdown Guide
