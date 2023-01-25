@@ -174,3 +174,23 @@
 [Basic writing and formatting syntax - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
 
 #### The Markdown Guide
+
+| Website | Address |
+| -       | -       |
+| [Markdown - Wikipedia] | https://en.wikipedia.org/wiki/Markdown |
+| [Markdown Guide] | https://www.markdownguide.org |
+| [About | Markdown Guide] | https://www.markdownguide.org/about |
+| [Getting Started | Markdown Guide] | https://www.markdownguide.org/getting-started |
+| [Markdown Cheat Sheet | Markdown Guide] | https://www.markdownguide.org/cheat-sheet |
+| [Basic Syntax | Markdown Guide] | https://www.markdownguide.org/basic-syntax |
+| [Extended Syntax | Markdown Guide] | https://www.markdownguide.org/extended-syntax |
+| [Hacks | Markdown Guide] | https://www.markdownguide.org/hacks |
+
+[Markdown - Wikipedia]: https://en.wikipedia.org/wiki/Markdown
+[Markdown Guide]: https://www.markdownguide.org
+[About | Markdown Guide]: https://www.markdownguide.org/about
+[Getting Started | Markdown Guide]: https://www.markdownguide.org/getting-started
+[Markdown Cheat Sheet | Markdown Guide]: https://www.markdownguide.org/cheat-sheet
+[Basic Syntax | Markdown Guide]: https://www.markdownguide.org/basic-syntax
+[Extended Syntax | Markdown Guide]: https://www.markdownguide.org/extended-syntax
+[Hacks | Markdown Guide]: https://www.markdownguide.org/hacks
