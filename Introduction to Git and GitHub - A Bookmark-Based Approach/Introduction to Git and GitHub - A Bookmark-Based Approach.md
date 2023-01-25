@@ -16,7 +16,7 @@
   - [Writing](#Writing)
     - [Markdown](#Markdown)
 
-[Get started](#Get\ started)
+[Get Bob](#Get%20started)
 
 [Markdown](#Markdown)
 
