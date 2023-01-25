@@ -90,6 +90,25 @@
 [Resolving a merge conflict using the command line - GitHub Docs]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
 
 ### Training
+
+| Website | Address |
+| -       | -       |
+| [GitHub Training Kit - GitHub Cheatsheets] | https://training.github.com |
+| [GitHub Training Manual] | https://githubtraining.github.io/training-manual/# |
+| [Getting Ready for Class] | https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class |
+| [GitHub Flow] | https://githubtraining.github.io/training-manual/#/03_github_flow |
+| [Branching with Git] | https://githubtraining.github.io/training-manual/#/04_branching_with_git |
+| [Merging Pull Requests] | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests |
+| [Reverting Commits] | https://githubtraining.github.io/training-manual/#/15_reverting_commits |
+
+[GitHub Training Kit - GitHub Cheatsheets]: https://training.github.com
+[GitHub Training Manual]: https://githubtraining.github.io/training-manual/#
+[Getting Ready for Class]: https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+[GitHub Flow]: https://githubtraining.github.io/training-manual/#/03_github_flow
+[Branching with Git]: https://githubtraining.github.io/training-manual/#/04_branching_with_git
+[Merging Pull Requests]: https://githubtraining.github.io/training-manual/#/09_merging_pull_requests
+[Reverting Commits]: https://githubtraining.github.io/training-manual/#/15_reverting_commits
+
 #### Get started
 ##### Quickstart
 ##### Skills
