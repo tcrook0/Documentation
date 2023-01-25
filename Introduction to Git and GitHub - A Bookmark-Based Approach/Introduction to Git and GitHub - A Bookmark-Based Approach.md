@@ -12,7 +12,17 @@
     - The Markdown Guide
 
 # Git and GitHub Bookmarks
+
 ## Git
+| Website           | Address         |
+| -                 | -               |
+| [Git - Wikipedia] | Git - Wikipedia |
+| [Git]             | Git             |
+
+[Git - Wikipedia]: https://en.wikipedia.org/wiki/Git
+[Git]:             https://git-scm.com/
+
+
 ## GitHub
 ### Docs
 ### Training
@@ -23,9 +33,6 @@
 ### Writing
 #### The Markdown Guide
 
-
-![](Images/BookmarksWebsiteAndAddress.png)
-*Bookmarks for Integrated Ordered and Organized URLs*
 
 | Website | Address |
 | -       | -       |
