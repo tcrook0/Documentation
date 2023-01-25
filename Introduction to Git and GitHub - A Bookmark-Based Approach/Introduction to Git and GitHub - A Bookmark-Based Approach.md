@@ -15,8 +15,8 @@
 
 ## Git
 
-| Website | Address |
-| -       | -       |
+|  Website |  Address |
+| :-       | :-       |
 | [Git - Wikipedia] | https://en.wikipedia.org/wiki/Git |
 | [Git] | https://git-scm.com |
 | [About - Git] | https://git-scm.com/about | 
