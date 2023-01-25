@@ -120,6 +120,19 @@
 [Verifying your email address - GitHub Docs]: https://docs.github.com/en/get-started/signing-up-for-github/verifying-your-email-address
 
 ##### Quickstart
+
+| Website | Address |
+| -       | -       |
+| [Quickstart - GitHub Docs] | https://docs.github.com/en/get-started/quickstart |
+| [Hello World - GitHub Docs] | https://docs.github.com/en/get-started/quickstart/hello-world |
+| [GitHub flow - GitHub Docs] | https://docs.github.com/en/get-started/quickstart/github-flow |
+| [GitHub glossary - GitHub Docs] | https://docs.github.com/en/get-started/quickstart/github-glossary |
+
+[Quickstart - GitHub Docs]: https://docs.github.com/en/get-started/quickstart
+[Hello World - GitHub Docs]: https://docs.github.com/en/get-started/quickstart/hello-world
+[GitHub flow - GitHub Docs]: https://docs.github.com/en/get-started/quickstart/github-flow
+[GitHub glossary - GitHub Docs]: https://docs.github.com/en/get-started/quickstart/github-glossary
+
 ##### Skills
 #### YouTube
 ### Writing
