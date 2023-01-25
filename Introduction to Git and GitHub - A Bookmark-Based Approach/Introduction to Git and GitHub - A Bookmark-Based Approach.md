@@ -1,3 +1,5 @@
+# Git and GitHub Bookmark Folders - An Outline
+
 - Git
 - GitHub
   - Docs
@@ -9,16 +11,17 @@
   - Writing
     - The Markdown Guide
 
-# Git
-# GitHub
-## Docs
-## Training
-### Get started
-#### Quickstart
-#### Skills
-### YouTube
-## Writing
-### The Markdown Guide
+# Git and GitHub Bookmarks
+## Git
+## GitHub
+### Docs
+### Training
+#### Get started
+##### Quickstart
+##### Skills
+#### YouTube
+### Writing
+#### The Markdown Guide
 
 
 ![](Images/BookmarksWebsiteAndAddress.png)
