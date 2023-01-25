@@ -134,6 +134,15 @@
 [GitHub glossary - GitHub Docs]: https://docs.github.com/en/get-started/quickstart/github-glossary
 
 ##### Skills
+
+| Website | Address |
+| -       | -       |
+| [GitHub Skills] | https://skills.github.com |
+| [GitHub - skills/introduction-to-github | Get started using GitHub in less than an hour]: https://github.com/skills/introduction-to-github |
+
+[GitHub Skills]: https://skills.github.com
+[GitHub - skills/introduction-to-github: Get started using GitHub in less than an hour]: https://github.com/skills/introduction-to-github
+
 #### YouTube
 ### Writing
 #### The Markdown Guide
