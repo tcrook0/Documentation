@@ -11,7 +11,10 @@ Git and GitHub Bookmark Folders - An Outline
 
 This section has both space and hypens in it; how is it's section link found?
 
-On the machine and browser used to write this on, hovering the mouse over the section text results in a display of an suggesting two links in a chain... A left-click on this shows a drop-down menu with a copy-link option. 
+On the machine and browser used to write this on, hovering the mouse over the section text results in a display of an suggesting two links in a chain... A left-click on this shows a drop-down menu with a copy-link option. Clicking on this option and then pasting into, say, a simple text editor, will result in the following text being displayed: 
+
+https://github.com/tcrook0/Documentation/blob/main/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach.md#git-and-github-bookmark-folders---an-outline
+
 - [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
 
 The section
