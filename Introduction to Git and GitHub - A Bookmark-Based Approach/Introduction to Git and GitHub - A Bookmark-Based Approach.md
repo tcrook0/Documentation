@@ -9,7 +9,7 @@
 - [GitHub](#GitHub)
   - [Docs](#Docs)
   - [Training](#Training)
-    - [Gettsstarted](#Gettsstarted)
+    - [Get started](#Get started)
       - [Quickstart](#Quickstart)
       - [Skills](#Skills)
     - [YouTube](#YouTube)
@@ -118,7 +118,7 @@
 [Merging Pull Requests]: https://githubtraining.github.io/training-manual/#/09_merging_pull_requests
 [Reverting Commits]: https://githubtraining.github.io/training-manual/#/15_reverting_commits
 
-#### Gettsstarted
+#### Get started
 
 |  Website |  Address |
 | :-       | :-       |
