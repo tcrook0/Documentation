@@ -2,13 +2,19 @@
 (This content will not appear in the rendered Markdown.)
 
 A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT
-- ---- -- --- -------- ---- -- ---- --------
 
 Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation. This issue is particularly acute if spaces and hypens are used.
 
-For example:
+For example, the section immediately below the Table of Contents:
 
+Git and GitHub Bookmark Folders - An Outline
 
+This section has both space and hypens in it; how is it's section link found?
+
+On the machine and browser used to write this on, a left-click on 
+- [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
+
+The section
 
 -->
 
