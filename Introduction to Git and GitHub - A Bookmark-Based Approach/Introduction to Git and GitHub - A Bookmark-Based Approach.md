@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-- [Git and GitHub Bookmark Folders - An Outline]
+- [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
 - [Git and GitHub Bookmarks]
   - [Git](#Git)
   - [GitHub](#GitHub)
