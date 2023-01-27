@@ -1,10 +1,12 @@
 <!--
-(This content (between lines with '<!--' and '-->' inclusively) will not appear in the rendered Markdown.)
+(This content will not appear in the rendered Markdown.)
 
 A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT
 - ---- -- --- -------- ---- -- ---- --------
 
-Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation.
+Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation. This issue is particularly acute if spaces and hypens are used.
+
+For example:
 
 
 
