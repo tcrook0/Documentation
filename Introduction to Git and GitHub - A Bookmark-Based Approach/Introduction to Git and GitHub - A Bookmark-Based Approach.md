@@ -9,7 +9,7 @@
 - [GitHub](#GitHub)
   - [Docs](#Docs)
   - [Training](#Training)
-    - Get started
+    - Gettsstarted
       - [Quickstart](#Quickstart)
       - [Skills](#Skills)
     - [YouTube](#YouTube)
@@ -17,8 +17,6 @@
     - [Markdown](#Markdown)
 
 [Get Bob](#Get%20started HOW DO I LINK TO HEADERS WITH SPACES IN THEM????)
-
-[Markdown](#Markdown)
 
 [Java Eclipse Project GitHub Repository Creation](../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
@@ -120,7 +118,7 @@
 [Merging Pull Requests]: https://githubtraining.github.io/training-manual/#/09_merging_pull_requests
 [Reverting Commits]: https://githubtraining.github.io/training-manual/#/15_reverting_commits
 
-#### Get started
+#### Gettsstarted
 
 |  Website |  Address |
 | :-       | :-       |
