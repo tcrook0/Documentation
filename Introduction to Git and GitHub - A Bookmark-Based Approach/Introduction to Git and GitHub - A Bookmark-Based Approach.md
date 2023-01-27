@@ -1,5 +1,13 @@
 <!--
-This content will not appear in the rendered Markdown
+(This content (between lines with '<!--' and '-->' inclusively) will not appear in the rendered Markdown.)
+
+A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT
+- ---- -- --- -------- ---- -- ---- --------
+
+Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation.
+
+
+
 -->
 
 [Java Eclipse Project GitHub Repository Creation](../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
