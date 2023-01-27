@@ -1,7 +1,5 @@
 <!--
-(This content will not appear in the rendered Markdown.)
-
-A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT
+A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT - ISSUE / WORKAROUND FOR SECTION LINKS
 
 Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation. This issue is particularly acute if spaces and hypens are used.
 
@@ -19,9 +17,9 @@ Part of the above text is needed to form the Section Link - the part that follow
 
 git-and-github-bookmark-folders---an-outline
 
-This is why the first Section Link listed immediately under the Table of Contents, below, is:
+This is why the first Section Link listed immediately under the Table of Contents, below, is listed as:
 
-- [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
+[Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
 
 The steps used above to find:
 
