@@ -6,13 +6,13 @@
 # Git and GitHub Bookmark Folders - An Outline
 
 - [Git](#Git)
-- GitHub
-  - Docs
-  - Training
+- [GitHub](#GitHub)
+  - [Docs](#Docs)
+  - [Training](#Training)
     - Get started
-      - Quickstart
-      - Skills
-    - YouTube
+      - [Quickstart](#Quickstart)
+      - [Skills](#Skills)
+    - [YouTube](#YouTube)
   - [Writing](#Writing)
     - [Markdown](#Markdown)
 
