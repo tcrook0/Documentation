@@ -9,7 +9,7 @@
 - [GitHub](#GitHub)
   - [Docs](#Docs)
   - [Training](#Training)
-    - [Get started](#Get started)
+    - [Get started](#get-started)
       - [Quickstart](#Quickstart)
       - [Skills](#Skills)
     - [YouTube](#YouTube)
