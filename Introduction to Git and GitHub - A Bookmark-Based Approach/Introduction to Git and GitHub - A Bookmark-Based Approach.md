@@ -9,16 +9,25 @@ For example, the section immediately below the Table of Contents:
 
 Git and GitHub Bookmark Folders - An Outline
 
-This section has both space and hypens in it; how is it's section link found?
+This section has both space and hypens in it; how is its section link found?
 
-On the machine and browser used to write this on, hovering the mouse over the section text results in a display of an suggesting two links in a chain... A left-click on this shows a drop-down menu with a copy-link option. Clicking on this option and then pasting into, say, a simple text editor, will result in the following text being displayed: 
+On the machine and browser used to write this on, hovering the mouse over the section text results in a display of an icon suggesting two links in a chain... This icon will appear to the very left of this text. A left-click on this icon displays a drop-down menu with a Copy Link option. Clicking on Copy Link and then pasting into, say, a simple text editor, will result in the following being displayed: 
 
 https://github.com/tcrook0/Documentation/blob/main/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach/Introduction%20to%20Git%20and%20GitHub%20-%20A%20Bookmark-Based%20Approach.md#git-and-github-bookmark-folders---an-outline
 
+Part of the above text is needed to form the Section Link - the part that follows the hash sign:
+
+git-and-github-bookmark-folders---an-outline
+
+This is why the first Section Link listed immediately under the Table of Contents, below, is:
+
 - [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
 
-The section
+The steps used above to find:
 
+git-and-github-bookmark-folders---an-outline
+
+May be similarly used on all of the other sections to derive their Section Links accordingly also.
 -->
 
 [Java Eclipse Project GitHub Repository Creation](../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
