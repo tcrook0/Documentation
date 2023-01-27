@@ -1,4 +1,6 @@
-<!-- This content will not appear in the rendered Markdown -->
+<!--
+This content will not appear in the rendered Markdown
+-->
 
 [Java Eclipse Project GitHub Repository Creation](../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
