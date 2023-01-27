@@ -1,5 +1,5 @@
 
-
+[Git - Documentation]
 
 
 
@@ -15,8 +15,6 @@
     - [YouTube](#YouTube)
   - [Writing](#Writing)
     - [Markdown](#Markdown)
-
-[Get Bob](#Get%20started HOW DO I LINK TO HEADERS WITH SPACES IN THEM????)
 
 [Java Eclipse Project GitHub Repository Creation](../Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
