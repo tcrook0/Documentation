@@ -28,7 +28,7 @@ git-and-github-bookmark-folders---an-outline
 May be similarly used on all of the other sections to derive their Section Links accordingly also.
 -->
 
-[Documentation]: ./
+[Documentation]: https://github.com/tcrook0/Documentation
 
 [Documentation]
 
