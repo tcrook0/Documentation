@@ -117,7 +117,7 @@ The remainder of this document shows the bookmarks organized within the folders 
 
 Suggestion: create these folders and bookmarks for yourself and then look at them. Having a related set of bookmarks in separate tabs on your browser, and then looking at each of the resulting pages, in order, will give you an idea of relationship. It will also give you an idea of what's out there that may be of use.
 
-Additional information regarding a related set of bookmarks may or may not follow after the its...
+Additional information regarding a related set of bookmarks may or may not follow its table.
 
 ## Git
 
@@ -135,6 +135,12 @@ Additional information regarding a related set of bookmarks may or may not follo
 | [Git - git-branch Documentation] | https://git-scm.com/docs/git-branch |
 | [Git - git-merge Documentation] | https://git-scm.com/docs/git-merge |
 | [Git - git-revert Documentation] | https://git-scm.com/docs/git-revert |
+
+The GitHub pages often refer to Git, the reverse? Not so much... Three basic operations, for both Git and GitHub, frequently encountered:
+
+- branch
+- merge
+- revert
 
 [Git - Wikipedia]: https://en.wikipedia.org/wiki/Git
 [Git]: https://git-scm.com
@@ -161,6 +167,8 @@ Additional information regarding a related set of bookmarks may or may not follo
 [GitHub: Let’s build from here · GitHub]: https://github.com
 [About]: https://github.com/about
 
+[GitHub: Let’s build from here · GitHub] is where you login to GitHub, or to obtain a GitHub account...
+
 ### Docs
 
 |  Website |  Address |
@@ -179,6 +187,8 @@ Additional information regarding a related set of bookmarks may or may not follo
 | [About merge conflicts - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts |
 | [Resolving a merge conflict on GitHub - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github |
 | [Resolving a merge conflict using the command line - GitHub Docs] | https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line |
+
+[GitHub Documentation] is extensive. The above set includes bookmarks alluded to earlier in [Downloading, Installation & Configuration] and those related to the basic operations mentioned in [Git].
 
 [GitHub Documentation]: https://docs.github.com/en
 [Authentication - GitHub Docs]: https://docs.github.com/en/authentication
@@ -206,6 +216,10 @@ Additional information regarding a related set of bookmarks may or may not follo
 | [Branching with Git] | https://githubtraining.github.io/training-manual/#/04_branching_with_git |
 | [Merging Pull Requests] | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests |
 | [Reverting Commits] | https://githubtraining.github.io/training-manual/#/15_reverting_commits |
+
+Both [GitHub Training Manual] and [Getting Ready for Class] were mentioned earlier; notice the bookmarks, above, pertaining to the basic operations mentioned in [Git].
+
+[GitHub Flow] is very important conceptually - it will help answer a lot of questions you may have.
 
 [GitHub Training Kit - GitHub Cheatsheets]: https://training.github.com
 [GitHub Training Manual]: https://githubtraining.github.io/training-manual/#
@@ -274,6 +288,10 @@ Additional information regarding a related set of bookmarks may or may not follo
 | [Quickstart for writing on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github |
 | [About writing and formatting on GitHub - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github |
 | [Basic writing and formatting syntax - GitHub Docs] | https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text |
+
+Both this document and [Java Eclipse Project GitHub Repository Creation] are written in the GitHub variant of [Markdown]. Note that GitHub does use a variant and so there are differences; yes, this can be confusing... Both documents are great examples of [Markdown] in actual use.
+
+Keep an eye out for quirks and work-arounds: one such is shown in the comments for this document at top.
 
 [Quickstart for writing on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 [About writing and formatting on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
