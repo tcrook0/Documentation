@@ -78,7 +78,7 @@ One of many things not covered: [Downloading, Installation & Configuration]...
 
 This document collects together an annotated set of bookmarks gathered in the course of grappling with Git, GitHub, and Java. Once you get past [Downloading, Installation & Configuration], you might want to next go through [Java Eclipse Project GitHub Repository Creation] which will take you through a series of steps using Git, GitHub, and Java to create a GitHub repository for a Java program.
 
-This document was written after just barely enough Git and GitHub knowledge was acquired to be dangerous; at least enough to make [Documentation]: https://github.com/tcrook0/Documentation possible.
+This document was written after just barely enough Git and GitHub knowledge was acquired to be dangerous; at least enough to make this [Documentation](https://github.com/tcrook0/Documentation) possible.
 
 [Java Eclipse Project GitHub Repository Creation]: (./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
