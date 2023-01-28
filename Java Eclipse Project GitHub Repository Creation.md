@@ -1,3 +1,7 @@
+# Table of Contents
+
+[Description](#description)
+
 # Description
 
 Instructions on how to create a `Java Eclipse Project` on a local machine and then store the source code for that project in a `GitHub` repository.
