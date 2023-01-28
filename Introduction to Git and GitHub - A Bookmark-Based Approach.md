@@ -84,7 +84,7 @@ In short, this document was written after just barely enough Git and GitHub know
 
 # Downloading, Installation & Configuration
 
-This document refers to various pieces of software; unfortunately, it doesn't provide much guidance for getting Git, GitHub, let alone Java, downloaded, installed, and configured on your machine. To do that, follow the instructions in [Getting Ready for Class].
+This document refers to various pieces of software; unfortunately, it doesn't provide much guidance for getting Git, GitHub, let alone Java, downloaded, installed, and configured on your machine. To do that, at least for Git and GitHub, follow the instructions in [Getting Ready for Class].
 
 GitHub, in practice, is used with Git. This can be confusing. Don't worry! This document and [Java Eclipse Project GitHub Repository Creation] will help make some sense of that...
 
