@@ -68,7 +68,7 @@ May be similarly used on all of the other sections to derive their Section Links
 
 [Getting Ready for Class]
 
-The above is the start of the [GitHub Training Manual]. Go through it. Important: Follow the instructions to set up your GitHub account before proceeding through the rest of the [GitHub Training Manual].
+The above link takes you to the start of the [GitHub Training Manual]. Go through it. Important: Follow the instructions to set up your GitHub account before proceeding through the rest of the [GitHub Training Manual].
 
 # Overview
 
@@ -98,6 +98,8 @@ Here are a few bookmarks referring to information you might want to keep in mind
 
 # Git and GitHub Bookmark Folders - An Outline
 
+The bookmarks referred to in this document are gathered together in a hierarchical set of bookmark folders, as supported by any web browser, as shown below:
+
 - [Git]
 - [GitHub]
   - [Docs]
@@ -110,6 +112,12 @@ Here are a few bookmarks referring to information you might want to keep in mind
     - [Markdown]
 
 # Git and GitHub Bookmarks
+
+The remainder of this document shows the bookmarks organized within the folders shown in [Git and GitHub Bookmark Folders - An Outline]. The description for each of these folders has its own section in this document, below. Each of these sections has a table showing both the bookmark name (Website column) and its associated Universal Resource Locator - URL (Address column).
+
+Suggestion: create these folders and bookmarks for yourself and then look at them. Having a related set of bookmarks in separate tabs on your browser, and then looking at each of the resulting pages, in order, will give you an idea of relationship. It will also give you an idea of what's out there that may be of use.
+
+Additional information regarding a related set of bookmarks may or may not follow after the its...
 
 ## Git
 
