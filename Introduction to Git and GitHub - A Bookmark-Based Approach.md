@@ -58,11 +58,27 @@ The above is the start of the [GitHub Training Manual]. Go through it. Important
 
 The advice in [Getting Ready for Class] is still a good idea; however, it might be helpful to look over the rest of this document. Doing so will help you to get a feel for what Git and GitHub are about.
 
-One of the many things not covered: [Downloading, Installation & Configuration]...
+One of many things not covered: [Downloading, Installation & Configuration]...
+
+This document collects together an annotated set of bookmarks gathered in the course of grappling with Git, GitHub, and Java. Once you get past [Downloading, Installation & Configuration], you might want to next go through [Java Eclipse Project GitHub Repository Creation] which will take you through a series of steps using Git, GitHub, and Java to create a GitHub repository for a Java program.
+
+In short, this document was written after just barely enough Git and GitHub knowledge was acquired to be dangerous...
+
+[Java Eclipse Project GitHub Repository Creation](./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
 # Downloading, Installation & Configuration
 
+This document refers to various pieces of software; unfortunately, it doesn't provide much guidance for getting Git, GitHub, let alone Java, downloaded, installed, and configured on your machine. To do that, follow the instructions in [Getting Ready for Class].
 
+GitHub, in practice, is used with Git. This can be confusing. Don't worry! This document and [Java Eclipse Project GitHub Repository Creation] will help make some sense of that...
+
+One thing to keep in mind is the importance of being able to distinguish between, and work with, local repositories on your machine in synchrony with their counterparts on GitHub.
+
+Here are a few bookmarks referring to information you might want to keep in mind while you work on [Downloading, Installation & Configuration] as described in [Getting Ready for Class]:
+
+- [Authentication - GitHub Docs]
+- [Creating a personal access token - GitHub Docs]
+- [Accessing GitHub using two-factor authentication - GitHub Docs]
 
 # Git and GitHub Bookmark Folders - An Outline
 
