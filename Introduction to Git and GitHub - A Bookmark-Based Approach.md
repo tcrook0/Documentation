@@ -58,7 +58,7 @@ The above is the start of the [GitHub Training Manual]. Go through it. Important
 
 The advice in [Getting Ready for Class] is still a good idea; however, it might be helpful to look over the rest of this document. Doing so will help you to get a feel for what Git and GitHub are about.
 
-One of the many things not covered: [Downloading, Installation and Configuration]...
+One of the many things not covered: [Downloading, Installation & Configuration]...
 
 # Downloading, Installation & Configuration
 
