@@ -28,7 +28,11 @@ git-and-github-bookmark-folders---an-outline
 May be similarly used on all of the other sections to derive their Section Links accordingly also.
 -->
 
+[Java Eclipse Project GitHub Repository Creation](./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
+
 # Table of Contents
+
+[In a Hurry?](#in-a-hurry)
 
 - [In a Hurry?]
 - [Overview](#overview)
@@ -46,7 +50,7 @@ May be similarly used on all of the other sections to derive their Section Links
     - [Writing](#writing)
       - [Markdown](#markdown)
 
-[In a Hurry?](#in-a-hurry)
+
 
 # In a Hurry?
 
