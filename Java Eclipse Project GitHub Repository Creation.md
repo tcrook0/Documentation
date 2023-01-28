@@ -2,6 +2,17 @@
 
 - [Description](#description)
 - [Create a new GitHub Repository](#create-a-new-github-repository)
+- [Clone the New Repository on Local Machine](#clone-the-new-repository-on-local-machine)
+- [Create a New Java Eclipse Project in the Repository](#create-a-new-java-eclipse-project-in-the-repository)
+- [Verify the Project Runs](#verify-the-project-runs)
+- [.gitignore](#.gitignore)
+- [add](#add)
+- [commit](#commit)
+- [push](#push)
+- [Verify the Source Code for the Project is Now in GitHub](#verify-the-source-code-for-the-project-is-now-in-github)
+- [Verify the Project Still Runs](#verify-the-project-still-runs)
+- [Delete the Repository on GitHub](#delete-the-repository-on-github)
+- [Delete the Cloned Local Repository](#delete-the-cloned-local-repository)
 
 # Description
 
@@ -305,7 +316,7 @@ UCSCext/CMPR_X412/QWeek1/Homework1/src/Homework1.java
 
 ...and none of the other files were copied over - the `.gitignore` file, created above, prevented that from happening.
 
-# Verify the Project Runs
+# Verify the Project Still Runs
 
 bring up `Eclipse`:
 
