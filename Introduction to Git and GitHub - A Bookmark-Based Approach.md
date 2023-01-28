@@ -30,7 +30,7 @@ May be similarly used on all of the other sections to derive their Section Links
 
 # Table of Contents
 
-- [In a Hurry?](#in-a-hurry)
+- [In a Hurry?]
 - [Overview](#overview)
 - [Downloading, Installation & Configuration](#downloading-installation--configuration)
 - [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
@@ -45,6 +45,8 @@ May be similarly used on all of the other sections to derive their Section Links
       - [YouTube](#youtube)
     - [Writing](#writing)
       - [Markdown](#markdown)
+
+[In a Hurry?](#in-a-hurry)
 
 # In a Hurry?
 
