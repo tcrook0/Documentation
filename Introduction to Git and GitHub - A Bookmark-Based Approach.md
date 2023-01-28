@@ -33,24 +33,36 @@ May be similarly used on all of the other sections to derive their Section Links
 # Table of Contents
 
 [In a Hurry?]: #in-a-hurry
+[Overview]: #overview
+[Downloading, Installation & Configuration]: #downloading-installation--configuration
+[Git and GitHub Bookmark Folders - An Outline]: #git-and-github-bookmark-folders---an-outline
+[Git and GitHub Bookmarks]: #git-and-github-bookmarks
+[Git]: #git
+[GitHub]: #gitHub
+[Docs]: #docs
+[Training]: #training
+[Get started]: #get-started
+[Quickstart]: #quickstart
+[Skills]: #skills
+[YouTube]: #youtube
+[Writing]: #writing
+[Markdown]: #markdown
 
 - [In a Hurry?]
-- [Overview](#overview)
-- [Downloading, Installation & Configuration](#downloading-installation--configuration)
-- [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
-- [Git and GitHub Bookmarks](#git-and-github-bookmarks)
-  - [Git](#git)
-  - [GitHub](#gitHub)
-    - [Docs](#docs)
-    - [Training](#training)
-      - [Get started](#get-started)
-        - [Quickstart](#quickstart)
-        - [Skills](#skills)
-      - [YouTube](#youtube)
-    - [Writing](#writing)
-      - [Markdown](#markdown)
-
-
+- [Overview]
+- [Downloading, Installation & Configuration]
+- [Git and GitHub Bookmark Folders - An Outline]
+- [Git and GitHub Bookmarks]
+  - [Git]
+  - [GitHub]
+    - [Docs]
+    - [Training]
+      - [Get started]
+        - [Quickstart]
+        - [Skills]
+      - [YouTube]
+    - [Writing]
+      - [Markdown]
 
 # In a Hurry?
 
@@ -86,18 +98,16 @@ Here are a few bookmarks referring to information you might want to keep in mind
 
 # Git and GitHub Bookmark Folders - An Outline
 
-- [Git](#git)
-- [GitHub](#gitHub)
-  - [Docs](#docs)
-  - [Training](#training)
-    - [Get started](#get-started)
-      - [Quickstart](#quickstart)
-      - [Skills](#skills)
-    - [YouTube](#youtube)
-  - [Writing](#writing)
-    - [Markdown](#markdown)
-
-[Java Eclipse Project GitHub Repository Creation](./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
+- [Git]
+- [GitHub]
+  - [Docs]
+  - [Training]
+    - [Get started]
+      - [Quickstart]
+      - [Skills]
+    - [YouTube]
+  - [Writing]
+    - [Markdown]
 
 # Git and GitHub Bookmarks
 
