@@ -1,6 +1,7 @@
 # Table of Contents
 
-[Description](#description)
+- [Description](#description)
+- [Create a new GitHub Repository](#create-a-new-github-repository)
 
 # Description
 
