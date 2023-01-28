@@ -32,6 +32,9 @@ May be similarly used on all of the other sections to derive their Section Links
 
 # Table of Contents
 
+- [In a Hurry?](#in-a-hurry)
+- [Overview](#overview)
+- [Downloading, Installation & Configuration](#downloading,-installation-&-configuration)
 - [Git and GitHub Bookmark Folders - An Outline](#git-and-github-bookmark-folders---an-outline)
 - [Git and GitHub Bookmarks](#git-and-github-bookmarks)
   - [Git](#git)
@@ -44,6 +47,22 @@ May be similarly used on all of the other sections to derive their Section Links
       - [YouTube](#youtube)
     - [Writing](#writing)
       - [Markdown](#markdown)
+
+# In a Hurry?
+
+[Getting Ready for Class]
+
+The above is the start of the [GitHub Training Manual]. Go through it. Important: Follow the instructions to set up your GitHub account before proceeding through the rest of the [GitHub Training Manual].
+
+# Overview
+
+The advice in [Getting Ready for Class] is still a good idea; however, it might be helpful to look over the rest of this document. Doing so will help you to get a feel for what Git and GitHub are about.
+
+One of the many things not covered: [Downloading, Installation and Configuration]...
+
+# Downloading, Installation & Configuration
+
+
 
 # Git and GitHub Bookmark Folders - An Outline
 
