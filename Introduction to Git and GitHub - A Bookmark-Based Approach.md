@@ -72,7 +72,7 @@ The above link takes you to the start of the [GitHub Training Manual]. Go throug
 
 # Overview
 
-The advice in [In a Hurry?] is still a good; however, in addition, it might be helpful to look over the rest of this document; doing so will help you to get a feel for what Git and GitHub are all about.
+The '[In a Hurry?]' advice is still a good; however, in addition to that, it might be helpful to look over the rest of this document; doing so will help you to get a feel for what Git and GitHub are all about.
 
 One of many things not covered: [Downloading, Installation & Configuration]...
 
