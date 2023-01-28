@@ -293,7 +293,7 @@ Both [GitHub Training Manual] and [Getting Ready for Class] were mentioned earli
 
 Both this document and [Java Eclipse Project GitHub Repository Creation] are written in the GitHub variant of [Markdown]. Note that GitHub does use a variant and so there are differences; yes, this can be confusing... Both documents are great examples of [Markdown] in actual use.
 
-Keep an eye out for quirks and work-arounds: one such is shown in the comments for this document at top.
+Keep an eye out for quirks and work-arounds: one such is shown in the comments for this document at top; to read it, you must be in raw or editor mode...
 
 [Quickstart for writing on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 [About writing and formatting on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
