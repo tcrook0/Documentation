@@ -1,7 +1,7 @@
 <!--
 A NOTE ON THE MARKDOWN USED IN THIS DOCUMENT - ISSUE / WORKAROUND FOR SECTION LINKS
 
-Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the Markdown documentation. This issue is particularly acute if spaces and hypens are used.
+Most of the Markdown used in this document is fairly straightforward; however, there's an issue with Section Links, a work-around for which, was not found in the documentation. This issue is particularly acute if spaces and hypens are used.
 
 For example, the section immediately below the Table of Contents:
 
@@ -27,8 +27,6 @@ git-and-github-bookmark-folders---an-outline
 
 May be similarly used on all of the other sections to derive their Section Links accordingly also.
 -->
-
-[Table of Contents]: #table-of-contents
 
 [Java Eclipse Project GitHub Repository Creation]: ./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md
 
@@ -295,7 +293,7 @@ Both [GitHub Training Manual] and [Getting Ready for Class] were mentioned earli
 
 Both this document and [Java Eclipse Project GitHub Repository Creation] are written in the GitHub variant of [Markdown]. Note that GitHub does use a variant and so there are differences; yes, this can be confusing... Both documents are great examples of [Markdown] in actual use.
 
-Keep an eye out for quirks and work-arounds: one such is shown in the comments for this document at top; to read it, you must be in 'Raw' or 'Edit this file' mode (buttons probablynear top left of the page your reading this from).
+Keep an eye out for quirks and work-arounds: one such is shown in the comments for this document at top; to read it, you must be in 'Raw' or 'Edit this file' mode (buttons probably near the top left of the page you're reading this from).
 
 [Quickstart for writing on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 [About writing and formatting on GitHub - GitHub Docs]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
