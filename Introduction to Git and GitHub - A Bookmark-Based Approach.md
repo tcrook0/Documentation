@@ -28,6 +28,10 @@ git-and-github-bookmark-folders---an-outline
 May be similarly used on all of the other sections to derive their Section Links accordingly also.
 -->
 
+[Documentation]: ./
+
+[Documentation]
+
 [Java Eclipse Project GitHub Repository Creation]: ./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md
 
 # Table of Contents
@@ -78,7 +82,7 @@ One of many things not covered: [Downloading, Installation & Configuration]...
 
 This document collects together an annotated set of bookmarks gathered in the course of grappling with Git, GitHub, and Java. Once you get past [Downloading, Installation & Configuration], you might want to next go through [Java Eclipse Project GitHub Repository Creation] which will take you through a series of steps using Git, GitHub, and Java to create a GitHub repository for a Java program.
 
-In short, this document was written after just barely enough Git and GitHub knowledge was acquired to be dangerous; at least enough to make possible [Java Eclipse Project GitHub Repository Creation].
+This document was written after just barely enough Git and GitHub knowledge was acquired to be dangerous; at least enough to make possible this and [Java Eclipse Project GitHub Repository Creation].
 
 [Java Eclipse Project GitHub Repository Creation]: (./Java%20Eclipse%20Project%20GitHub%20Repository%20Creation.md)
 
@@ -219,9 +223,7 @@ If you have a GitHub account and you're reading this from that account, you will
 | [Merging Pull Requests] | https://githubtraining.github.io/training-manual/#/09_merging_pull_requests |
 | [Reverting Commits] | https://githubtraining.github.io/training-manual/#/15_reverting_commits |
 
-Both [GitHub Training Manual] and [Getting Ready for Class] were mentioned earlier; notice the bookmarks, above, pertaining to the basic operations mentioned in [Git].
-
-[GitHub Flow] is very important conceptually - it will help answer a lot of questions you may have.
+Both [GitHub Training Manual] and [Getting Ready for Class] were mentioned earlier; notice the bookmarks, above, pertaining to the basic operations mentioned in [Git].  This set is not a substitute for actually working through the [GitHub Training Manual] sequentially, starting with [Getting Ready for Class]. 
 
 [GitHub Training Kit - GitHub Cheatsheets]: https://training.github.com
 [GitHub Training Manual]: https://githubtraining.github.io/training-manual/#
