@@ -169,6 +169,8 @@ The GitHub pages often refer to Git, the reverse? Not so much... Three basic ope
 
 [GitHub: Let’s build from here · GitHub] is where you login to GitHub, or to obtain a GitHub account...
 
+If you have a GitHub account and you're reading this from that account, you will probably be quite familiar with [GitHub: Let’s build from here · GitHub]. Just remember to log out of your GitHub account if you want to see [GitHub: Let’s build from here · GitHub] as it is when you are not logged in... 
+
 ### Docs
 
 |  Website |  Address |
