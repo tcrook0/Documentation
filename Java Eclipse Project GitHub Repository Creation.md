@@ -5,7 +5,7 @@
 - [Clone the New Repository on Local Machine](#clone-the-new-repository-on-local-machine)
 - [Create a New Java Eclipse Project in the Repository](#create-a-new-java-eclipse-project-in-the-repository)
 - [Verify the Project Runs](#verify-the-project-runs)
-- [.gitignore](#\.gitignore)
+- [.gitignore](#gitignore)
 - [add](#add)
 - [commit](#commit)
 - [push](#push)
