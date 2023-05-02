@@ -98,7 +98,7 @@ This brings up a `New Java Class` window.
 - enter the following in the `Name` field: `Homework1`
 - click `Finish` button
 
-This results in a new `Homework1.java' tab with an editor field.
+This results in a new `Homework1.java` tab with an editor field.
 
 - Delete any content in this field.
 - Copy and paste the entire contents of the following file into this field (`Finder` works well for navigating to this file which may be opened by double-clicking on it):
