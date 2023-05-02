@@ -114,6 +114,9 @@ Macintosh HD > Users > tomcrook > Documents > _ACME
              > Homework1.java
 ```
 
+- click `File` drop-down, from menu bar, top
+- click `Save`
+
 # Verify the Project Runs
 
 from `Eclipse`:
