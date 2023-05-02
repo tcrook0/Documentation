@@ -25,7 +25,7 @@ Note: these instructions are repeatable; they include steps deleting what was cr
 - go to the `GitHub` website: https://github.com
 - sign in to `GitHub` as `tcrook0`
 - click `tcrook0` drop-down, upper right corner
-- click `Your repositories` link
+- click `Your repositories`
 - click `New` button, below `tcrook0` drop-down
 - enter the following in `Repository name` field: `IntegratedProjects`
 - click `Create repository` button, near bottom
