@@ -88,9 +88,20 @@ near bottom, turn off the following two checkboxes:
 1. `Create module-info.java file`
 2. `Generate comments`
 
-click `Finish` button
+- click `Finish` button
+- click `File` drop-down, from menu bar, top
+- click `New` (first item in drop-down menu)
+- click `Class`
 
-This results in a new window with a blank editor field. Copy and paste the entire contents of the following file into this field (`Finder` works well for navigating to this file which may be opened by double-clicking on it):
+This brings up a `New Java Class` window.
+
+- enter the following in the `Name` field: `Homework1`
+- click `Finish` button
+
+This results in a new `Homework1.java' tab with an editor field.
+
+- Delete any content in this field.
+- Copy and paste the entire contents of the following file into this field (`Finder` works well for navigating to this file which may be opened by double-clicking on it):
 
 ```
 Macintosh HD > Users > tomcrook > Documents > _ACME
